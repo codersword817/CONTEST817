@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import '../App.css';
 
 const Home = () => {
-  const [set, setSet] = useState('neetcode_450');
+  const [set, setSet] = useState('striver_a2z');
   const [selectedTime, setSelectedTime] = useState(60);
   const navigate = useNavigate();
 
@@ -32,7 +32,8 @@ const Home = () => {
             onChange={(e) => setSet(e.target.value)}
             className="select-dropdown"
           >
-            <option selected value="neetcode_450">Neetcode 450</option>
+            <option value="striver_a2z">Striver A2Z</option>
+            <option value="neetcode_450">Neetcode 450</option>
             {/* <option value="set_75">Striver 75 </option>
             <option value="set_150">Striver 150</option> */}
           </select>
