@@ -4,7 +4,7 @@ import '../App.css';
 
 const Home = () => {
   const [set, setSet] = useState('neetcode_450');
-  const [selectedTime, setSelectedTime] = useState(90);
+  const [selectedTime, setSelectedTime] = useState(60);
   const navigate = useNavigate();
 
   const handleGenerateContest = () => {
