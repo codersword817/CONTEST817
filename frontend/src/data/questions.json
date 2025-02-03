@@ -771,13 +771,13 @@
       },
       {
         "id": 129,
-        "title": "Graph Representation | C++",
+        "title": "Graph Representation C++",
         "link": "https://bit.ly/3dGuwyv",
         "youtubeLink": "https://takeuforward.org/graph/graph-representation-in-c/"
       },
       {
         "id": 130,
-        "title": "Graph Representation | Java",
+        "title": "Graph Representation Java",
         "link": "https://bit.ly/3dGuwyv",
         "youtubeLink": null
       },
@@ -1625,7 +1625,7 @@
       },
       {
         "id": 271,
-        "title": "Requirements needed to construct a Unique Binary Tree | Theory",
+        "title": "Requirements needed to construct a Unique Binary Tree Theory",
         "link": "https://bit.ly/3UVCR1U",
         "youtubeLink": null
       },
@@ -1685,7 +1685,7 @@
       },
       {
         "id": 281,
-        "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+        "title": "Two Sum In BST Check if there exists a pair with Sum K",
         "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
         "youtubeLink": null
       },
@@ -1775,109 +1775,109 @@
       },
       {
         "id": 296,
-        "title": "Frog Jump(DP-3)",
+        "title": "Frog Jump",
         "link": "https://bit.ly/3Xn0Kkw",
         "youtubeLink": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/"
       },
       {
         "id": 297,
-        "title": "Frog Jump with k distances(DP-4)",
+        "title": "Frog Jump with k distances",
         "link": "https://bit.ly/3GyNRya",
         "youtubeLink": "https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/"
       },
       {
         "id": 298,
-        "title": "Maximum sum of non-adjacent elements (DP 5)",
+        "title": "Maximum sum of non-adjacent elements",
         "link": "https://leetcode.com/problems/house-robber/",
         "youtubeLink": "https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/"
       },
       {
         "id": 299,
-        "title": "House Robber (DP 6)",
+        "title": "House Robber ",
         "link": "https://leetcode.com/problems/house-robber-ii/",
         "youtubeLink": "https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/"
       },
       {
         "id": 300,
-        "title": "Ninja's Training (DP 7)",
+        "title": "Ninja's Training",
         "link": "https://bit.ly/3glc9kp",
         "youtubeLink": "https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/"
       },
       {
         "id": 301,
-        "title": "Grid Unique Paths : DP on Grids (DP8)",
+        "title": "Grid Unique Paths : Unique Paths",
         "link": "https://leetcode.com/problems/unique-paths/",
         "youtubeLink": "https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/"
       },
       {
         "id": 302,
-        "title": "Grid Unique Paths 2 (DP 9)",
+        "title": "Grid Unique Paths 2",
         "link": "https://leetcode.com/problems/unique-paths-ii/",
         "youtubeLink": "https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/"
       },
       {
         "id": 303,
-        "title": "Minimum path sum in Grid (DP 10)",
+        "title": "Minimum path sum in Grid",
         "link": "https://leetcode.com/problems/minimum-path-sum/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/"
       },
       {
         "id": 304,
-        "title": "Minimum path sum in Triangular Grid (DP 11)",
+        "title": "Minimum path sum in Triangular Grid",
         "link": "https://leetcode.com/problems/triangle/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/"
       },
       {
         "id": 305,
-        "title": "Minimum/Maximum Falling Path Sum (DP-12)",
+        "title": "Minimum/Maximum Falling Path Sum ",
         "link": "https://leetcode.com/problems/minimum-falling-path-sum/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-maximum-falling-path-sum-dp-12/"
       },
       {
         "id": 306,
-        "title": "3-d DP : Ninja and his friends (DP-13)",
+        "title": "3-d DP : Ninja and his friends",
         "link": "https://bit.ly/3U9k6XT",
         "youtubeLink": "https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/"
       },
       {
         "id": 307,
-        "title": "Subset sum equal to target (DP- 14)",
+        "title": "Subset sum equal to target",
         "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
         "youtubeLink": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/"
       },
       {
         "id": 308,
-        "title": "Partition Equal Subset Sum (DP- 15)",
+        "title": "Partition Equal Subset Sum",
         "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
         "youtubeLink": "https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/"
       },
       {
         "id": 309,
-        "title": "Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)",
+        "title": "Partition Set Into 2 Subsets With Min Absolute Sum Diff",
         "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
         "youtubeLink": "https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/"
       },
       {
         "id": 310,
-        "title": "Count Subsets with Sum K (DP - 17)",
+        "title": "Count Subsets with Sum K ",
         "link": "https://bit.ly/3AwVr8I",
         "youtubeLink": "https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/"
       },
       {
         "id": 311,
-        "title": "Count Partitions with Given Difference (DP - 18)",
+        "title": "Count Partitions with Given Difference",
         "link": "https://bit.ly/3gkAM0s",
         "youtubeLink": "https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/"
       },
       {
         "id": 312,
-        "title": "Target Sum (DP - 21)",
+        "title": "Target Sum ",
         "link": "https://leetcode.com/problems/target-sum/",
         "youtubeLink": "https://takeuforward.org/data-structure/target-sum-dp-21/"
       },
       {
         "id": 313,
-        "title": "Wildcard Matching | (DP-34)",
+        "title": "Wildcard Matching ",
         "link": "https://leetcode.com/problems/wildcard-matching/",
         "youtubeLink": "https://takeuforward.org/data-structure/wildcard-matching-dp-34/"
       },
@@ -1907,7 +1907,7 @@
       },
       {
         "id": 318,
-        "title": "Hashing In Strings | Theory",
+        "title": "Hashing In Strings Theory",
         "link": "https://bit.ly/3glak75",
         "youtubeLink": null
       }
@@ -2209,7 +2209,7 @@
       },
       {
         "id": 368,
-        "title": "Recover BST | Correct BST with two nodes swapped",
+        "title": "Recover BST Correct BST with two nodes swapped",
         "link": "https://leetcode.com/problems/recover-binary-search-tree/",
         "youtubeLink": null
       },
@@ -2221,7 +2221,7 @@
       },
       {
         "id": 370,
-        "title": "Connected Components | Logic Explanation",
+        "title": "Connected Components Logic Explanation",
         "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
         "youtubeLink": "https://takeuforward.org/graph/connected-components-in-graphs/"
       },
@@ -2461,217 +2461,217 @@
       },
       {
         "id": 410,
-        "title": "Minimum Coins (DP - 20)",
+        "title": "Minimum Coins 0)",
         "link": "https://leetcode.com/problems/coin-change/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-coins-dp-20/"
       },
       {
         "id": 411,
-        "title": "Coin Change 2 (DP - 22)",
+        "title": "Coin Change 2 2)",
         "link": "https://leetcode.com/problems/coin-change-2/",
         "youtubeLink": "https://takeuforward.org/data-structure/coin-change-2-dp-22/"
       },
       {
         "id": 412,
-        "title": "Unbounded Knapsack (DP - 23)",
+        "title": "Unbounded Knapsack 3)",
         "link": "https://bit.ly/3Cbc5fz",
         "youtubeLink": "https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/"
       },
       {
         "id": 413,
-        "title": "Rod Cutting Problem | (DP - 24)",
+        "title": "Rod Cutting Problem 4)",
         "link": "https://practice.geeksforgeeks.org/problems/rod-cutting0840/1",
         "youtubeLink": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/"
       },
       {
         "id": 414,
-        "title": "Longest Common Subsequence | (DP - 25)",
+        "title": "Longest Common Subsequence 5)",
         "link": "https://leetcode.com/problems/longest-common-subsequence/",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/"
       },
       {
         "id": 415,
-        "title": "Print Longest Common Subsequence | (DP - 26)",
+        "title": "Print Longest Common Subsequence 6)",
         "link": "https://bit.ly/3T1Va4U",
         "youtubeLink": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/"
       },
       {
         "id": 416,
-        "title": "Longest Common Substring | (DP - 27)",
+        "title": "Longest Common Substring 7)",
         "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-common-substring-dp-27/"
       },
       {
         "id": 417,
-        "title": "Longest Palindromic Subsequence | (DP-28)",
+        "title": "Longest Palindromic Subsequence ",
         "link": "https://leetcode.com/problems/longest-palindromic-subsequence/",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/"
       },
       {
         "id": 418,
-        "title": "Minimum insertions to make string palindrome | DP-29",
+        "title": "Minimum insertions to make string palindrome DP-29",
         "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/"
       },
       {
         "id": 419,
-        "title": "Minimum Insertions/Deletions to Convert String | (DP- 30)",
+        "title": "Minimum Insertions/Deletions to Convert String )",
         "link": "https://leetcode.com/problems/delete-operation-for-two-strings/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/"
       },
       {
         "id": 420,
-        "title": "Shortest Common Supersequence | (DP - 31)",
+        "title": "Shortest Common Supersequence 1)",
         "link": "https://leetcode.com/problems/shortest-common-supersequence/",
         "youtubeLink": "https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/"
       },
       {
         "id": 421,
-        "title": "Distinct Subsequences| (DP-32)",
+        "title": "Distinct Subsequences",
         "link": "https://leetcode.com/problems/distinct-subsequences/",
         "youtubeLink": "https://takeuforward.org/data-structure/distinct-subsequences-dp-32/"
       },
       {
         "id": 422,
-        "title": "Edit Distance | (DP-33)",
+        "title": "Edit Distance ",
         "link": "https://leetcode.com/problems/edit-distance/",
         "youtubeLink": "https://takeuforward.org/data-structure/edit-distance-dp-33/"
       },
       {
         "id": 423,
-        "title": "Best Time to Buy and Sell Stock |(DP-35)",
+        "title": "Best Time to Buy and Sell Stock ",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "youtubeLink": "https://takeuforward.org/data-structure/stock-buy-and-sell-dp-35/"
       },
       {
         "id": 424,
-        "title": "Buy and Sell Stock - II|(DP-36)",
+        "title": "Buy and Sell Stock - II",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
         "youtubeLink": "https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/"
       },
       {
         "id": 425,
-        "title": "Buy and Sell Stocks III|(DP-37)",
+        "title": "Buy and Sell Stocks III",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
         "youtubeLink": "https://takeuforward.org/data-structure/buy-and-sell-stock-iii-dp-37/"
       },
       {
         "id": 426,
-        "title": "Buy and Stock Sell IV |(DP-38)",
+        "title": "Buy and Stock Sell IV ",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
         "youtubeLink": "https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/"
       },
       {
         "id": 427,
-        "title": "Buy and Sell Stocks With Cooldown|(DP-39)",
+        "title": "Buy and Sell Stocks With Cooldown",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
         "youtubeLink": "https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/"
       },
       {
         "id": 428,
-        "title": "Buy and Sell Stocks With Transaction Fee|(DP-40)",
+        "title": "Buy and Sell Stocks With Transaction Fee",
         "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
         "youtubeLink": "https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/"
       },
       {
         "id": 429,
-        "title": "Longest Increasing Subsequence |(DP-41)",
+        "title": "Longest Increasing Subsequence ",
         "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/"
       },
       {
         "id": 430,
-        "title": "Printing Longest Increasing Subsequence|(DP-42)",
+        "title": "Printing Longest Increasing Subsequence",
         "link": "https://bit.ly/3XiRbmG",
         "youtubeLink": "https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/"
       },
       {
         "id": 431,
-        "title": "Longest Increasing Subsequence |(DP-43)",
+        "title": "Longest Increasing Subsequence ",
         "link": "https://bit.ly/3Pxf84L",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/"
       },
       {
         "id": 432,
-        "title": "Largest Divisible Subset|(DP-44)",
+        "title": "Largest Divisible Subset",
         "link": "https://leetcode.com/problems/largest-divisible-subset/",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/"
       },
       {
         "id": 433,
-        "title": "Longest String Chain|(DP-45)",
+        "title": "Longest String Chain",
         "link": "https://leetcode.com/problems/longest-string-chain/",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-string-chain-dp-45/"
       },
       {
         "id": 434,
-        "title": "Longest Bitonic Subsequence |(DP-46)",
+        "title": "Longest Bitonic Subsequence ",
         "link": "https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
         "youtubeLink": "https://takeuforward.org/data-structure/longest-bitonic-subsequence-dp-46/"
       },
       {
         "id": 435,
-        "title": "Number of Longest Increasing Subsequences|(DP-47)",
+        "title": "Number of Longest Increasing Subsequences",
         "link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
         "youtubeLink": "https://takeuforward.org/data-structure/number-of-longest-increasing-subsequences-dp-47/"
       },
       {
         "id": 436,
-        "title": "Matrix Chain Multiplication|(DP-48)",
+        "title": "Matrix Chain Multiplication",
         "link": "https://bit.ly/3Cgg36D",
         "youtubeLink": "https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/"
       },
       {
         "id": 437,
-        "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+        "title": "Matrix Chain Multiplication Bottom-Up",
         "link": "https://bit.ly/3Cgg36D",
         "youtubeLink": "https://takeuforward.org/data-structure/matrix-chain-multiplication-tabulation-method-dp-49/"
       },
       {
         "id": 438,
-        "title": "Minimum Cost to Cut the Stick|(DP-50)",
+        "title": "Minimum Cost to Cut the Stick",
         "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
         "youtubeLink": "https://takeuforward.org/data-structure/minimum-cost-to-cut-the-stick-dp-50/"
       },
       {
         "id": 439,
-        "title": "Burst Balloons|(DP-51)",
+        "title": "Burst Balloons",
         "link": "https://leetcode.com/problems/burst-balloons/",
         "youtubeLink": "https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51/"
       },
       {
         "id": 440,
-        "title": "Evaluate Boolean Expression to True|(DP-52)",
+        "title": "Evaluate Boolean Expression to True",
         "link": "https://leetcode.com/problems/parsing-a-boolean-expression/",
         "youtubeLink": "https://takeuforward.org/data-structure/evaluate-boolean-expression-to-true-partition-dp-dp-52/"
       },
       {
         "id": 441,
-        "title": "Palindrome Partitioning - II|(DP-53)",
+        "title": "Palindrome Partitioning - II",
         "link": "https://leetcode.com/problems/palindrome-partitioning-ii/",
         "youtubeLink": "https://takeuforward.org/data-structure/palindrome-partitioning-ii-front-partition-dp-53/"
       },
       {
         "id": 442,
-        "title": "Partition Array for Maximum Sum|(DP-54)",
+        "title": "Partition Array for Maximum Sum",
         "link": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
         "youtubeLink": "https://takeuforward.org/data-structure/partition-array-for-maximum-sum-front-partition-dp-54/"
       },
       {
         "id": 443,
-        "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+        "title": "Maximum Rectangle Area with all 1's",
         "link": "https://leetcode.com/problems/maximal-rectangle/",
         "youtubeLink": "https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/"
       },
       {
         "id": 444,
-        "title": "Count Square Submatrices with All Ones|(DP-56)",
+        "title": "Count Square Submatrices with All Ones",
         "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
         "youtubeLink": "https://takeuforward.org/data-structure/count-square-submatrices-with-all-1s-dp-on-rectangles-dp-56/"
       },
       {
         "id": 445,
-        "title": "Implement TRIE | INSERT | SEARCH | STARTSWITH",
+        "title": "Implement TRIE INSERT SEARCH STARTSWITH",
         "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
         "youtubeLink": "https://takeuforward.org/data-structure/implement-trie-1/"
       },
