@@ -1,1735 +1,2709 @@
 {
-  "set_a2z": {
+  "neetcode_450": {
     "easy": [
       {
         "id": 1,
         "title": "Contains Duplicate",
         "link": "https://leetcode.com/problems/contains-duplicate/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3OamzN90kPg&pp=ygUcY29udGFpbnMgZHVwbGljYXRlIGxlZXRjb2RlIA%3D%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=3OamzN90kPg"
       },
       {
         "id": 2,
         "title": "Valid Anagram",
         "link": "https://leetcode.com/problems/valid-anagram/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9UtInBqnCgA&pp=ygUWdmFsaWQgYW5hZ3JhbSBsZWV0Y29kZQ%3D%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=9UtInBqnCgA"
       },
       {
         "id": 3,
-        "title": "Two Sum",
-        "link": "https://leetcode.com/problems/two-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UXDSeD9mN-k&pp=ygUHdHdvIHN1bQ%3D%3D"
+        "title": "Concatenation of Array",
+        "link": "https://leetcode.com/problems/concatenation-of-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=68isPRHgcFQ"
       },
       {
         "id": 4,
-        "title": "Valid Palindrome",
-        "link": "https://leetcode.com/problems/valid-palindrome/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jJXJ16kPFWg&pp=ygUPdmFsaWQgcGFpbWRyb21l"
+        "title": "Replace Elements With Greatest Element On Right Side",
+        "link": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ZHjKhUjcsaU"
       },
       {
         "id": 5,
-        "title": "Buy and Sell Stock",
-        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-        "youtubeLink": "https://www.youtube.com/watch?v=excAOvwF_Wk&pp=ygUbYnV5IGFuZCBzZWxsIHN0b2NrIGxlZXRjb2Rl.com/example1"
-      },
-      {
-        "id": 7,
-        "title": "Reverse Linked List",
-        "link": "https://leetcode.com/problems/reverse-linked-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=D2vI2DNJGd8&ab_channel=takeUforward"
-      },
-      {
-        "id": 8,
-        "title": "Merge two Sorted Lists",
-        "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jXu-H7XuClE&pp=ygUWbWVyZ2UgdHdvIHNvcnRlZCBsaXN0cw%3D%3D"
-      },
-      {
-        "id": 9,
-        "title": "Linked List Cycle",
-        "link": "https://leetcode.com/problems/linked-list-cycle/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gBTe7lFR3vc&pp=ygURbGlua2VkIGxpc3QgY3ljbGU%3D"
-      },
-      {
-        "id": 10,
-        "title": "Invert Binary Tree",
-        "link": "https://leetcode.com/problems/invert-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OnSn2XEQ4MY&pp=ygUSaW52ZXJ0IGJpbmFyeSB0cmVl"
-      },
-      {
-        "id": 11,
-        "title": "Maximum Depth of Binary Tree",
-        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=eD3tmO66aBA&pp=ygUcbWF4aW11bSBkZXB0aCBvZiBiaW5hcnkgdHJlZQ%3D%3D"
-      },
-      {
-        "id": 12,
-        "title": "Same Tree",
-        "link": "https://leetcode.com/problems/same-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BhuvF_-PWS0&pp=ygUSc2FtZSB0cmVlIGxlZXRjb2Rl"
-      },
-      {
-        "id": 13,
-        "title": "Subtree of Another Teee",
-        "link": "https://leetcode.com/problems/subtree-of-another-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=E36O5SWp-LE&pp=ygUXc3VidHJlZSBvZiBhbm90aGVyIHRyZWU%3D"
-      },
-      {
-        "id": 14,
-        "title": "Climbing Stairs",
-        "link": "https://leetcode.com/problems/climbing-stairs/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mLfjzJsN8us&pp=ygUYY2xpbWJpbmcgc3RhaXJzIGxlZXRjb2Rl1"
-      },
-      {
-        "id": 15,
-        "title": "Meeting Rooms",
-        "link": "https://leetcode.com/problems/meeting-rooms/",
-        "youtubeLink": "https://www.youtube.com/watch?v=PaJxqZVPhbg&pp=ygUWbWVldGluZyByb29tcyBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 16,
-        "title": "Number of 1 Bits",
-        "link": "https://leetcode.com/problems/number-of-1-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5Km3utixwZs&pp=ygUmbWVldGluZyByb29tcyBsZWV0Y29kZW51bWJlciBvZiAxIGJpdHM%3D"
-      },
-      {
-        "id": 17,
-        "title": "Counting Bits",
-        "link": "https://leetcode.com/problems/counting-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=RyBM56RIWrM&pp=ygUWY291bnRpbmcgYml0cyBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 18,
-        "title": "Reverse Bits",
-        "link": "https://leetcode.com/problems/reverse-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UcoN6UjAI64&pp=ygUMcmV2ZXJzZSBiaXRz"
-      },
-      {
-        "id": 19,
-        "title": "Missing Number",
-        "link": "https://leetcode.com/problems/missing-number/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bYWLJb3vCWY&pp=ygUObWlzc2luZyBudW1iZXI%3D"
-      }
-    ],
-    "medium": [
-      {
-        "id": 20,
-        "title": "Group Anangrams",
-        "link": "https://leetcode.com/problems/group-anagrams/",
-        "youtubeLink": "https://www.youtube.com/watch?v=vzdNOK2oB2E&pp=ygUXZ3JvdXAgYW5hZ3JhbXMgbGVldGNvZGU%3D"
-      },
-      {
-        "id": 21,
-        "title": "Top K Frequent Elements",
-        "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-        "youtubeLink": "https://www.youtube.com/watch?v=YPTqKIgVk-k&pp=ygUXdG9wIGsgZnJlcXVlbnQgZWxlbWVudHM%3D"
-      },
-      {
-        "id": 22,
-        "title": "Encode and Decode Strings",
-        "link": "https://leetcode.com/problems/encode-and-decode-strings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=B1k_sxOSgv8&pp=ygUZZW5jb2RlIGFuZCBkZWNvZGUgc3RyaW5ncw%3D%3D"
-      },
-      {
-        "id": 23,
-        "title": "product of Array Except Self",
-        "link": "https://leetcode.com/problems/product-of-array-except-self/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bNvIQI2wAjk&pp=ygUccHJvZHVjdCBvZiBhcnJheSBleGNlcHQgc2VsZg%3D%3D"
-      },
-      {
-        "id": 24,
-        "title": "Longest Consecutive Sequence",
-        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "youtubeLink": "https://www.youtube.com/watch?v=oO5uLE7EUlM&pp=ygUcbG9uZ2VzdCBjb25zZWN1dGl2ZSBzZXF1ZW5jZQ%3D%3D"
-      },
-      {
-        "id": 25,
-        "title": "3Sum",
-        "link": "https://leetcode.com/problems/3sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=DhFh8Kw7ymk&pp=ygUFMyBzdW0%3D"
-      },
-      {
-        "id": 26,
-        "title": "Container With Most Water",
-        "link": "https://leetcode.com/problems/container-with-most-water/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UuiTKBwPgAo&pp=ygUZY29udGFpbmVyIHdpdGggbW9zdCB3YXRlcg%3D%3D"
-      },
-      {
-        "id": 27,
-        "title": "Longest Substring Without Repeating Characters",
-        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-zSxTJkcdAo&pp=ygUubG9uZ2VzdCBzdWJzdHJpbmcgd2l0aG91dCByZXBlYXRpbmcgY2hhcmFjdGVycw%3D%3D"
-      },
-      {
-        "id": 28,
-        "title": "Longest Repeating Character Replacement",
-        "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-        "youtubeLink": "https://www.youtube.com/watch?v=_eNhaDCr6P0&pp=ygUnbG9uZ2VzdCByZXBlYXRpbmcgY2hhcmFjdGVyIHJlcGxhY2VtZW50"
-      },
-      {
-        "id": 29,
-        "title": "Find Minimum in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=nhEMDKMB44g&pp=ygUkZmluZCBtaW5pbXVtIGluIHJvdGF0ZWQgc29ydGVkIGFycmF5"
-      },
-      {
-        "id": 30,
-        "title": "Search in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5qGrJbHhqFs&pp=ygUfc2VhcmNoICBpbiByb3RhdGVkIHNvcnRlZCBhcnJheQ%3D%3D"
-      },
-      {
-        "id": 31,
-        "title": "Reorder List",
-        "link": "https://leetcode.com/problems/reorder-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=S5bfdUTrKLM&pp=ygUMcmVvcmRlciBsaXN0"
-      },
-      {
-        "id": 32,
-        "title": "Remove nth Node From End of the List",
-        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3kMKYQ2wNIU&pp=ygUgcmVtb3ZlIG50aCBub2RlIGZyb20gZW5kIG9mIGxpc3Q%3D"
-      },
-      {
-        "id": 33,
-        "title": "Lowest Common Ancestor of a BST",
-        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=cX_kPV_foZc&pp=ygUubG93ZXN0IGNvbW1vbiBhbmNlc3RvciBvZiBhIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
-      },
-      {
-        "id": 34,
-        "title": "Binary Tree Level Order Traversal",
-        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=EoAsWbO7sqg&pp=ygUhYmluYXJ5IHRyZWUgbGV2ZWwgb3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 35,
-        "title": "Validate BST",
-        "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=f-sj7I5oXEI&pp=ygUMdmFsaWRhdGUgYnN0"
-      },
-      {
-        "id": 36,
-        "title": "Kth Smallest Element in a BST",
-        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9TJYWh0adfk&pp=ygUea3RoIHNtYWxsZXN0IGVsZW1lbnQgaW4gYW4gYnN0"
-      },
-      {
-        "id": 37,
-        "title": "Construct Binary Tree from Preorder and Postorder Traversal",
-        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=aZNaLrVebKQ&pp=ygU5Y29uc3RydWN0IGJpbmFyeSB0cmVlIGZyb20gcHJlb3JkZXIgYW5kIGlub3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 38,
-        "title": "Combination Sum",
-        "link": "https://leetcode.com/problems/combination-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OyZFFqQtu98&pp=ygUPY29tYmluYXRpb24gc3Vt"
-      },
-      {
-        "id": 39,
-        "title": "Word Search",
-        "link": "https://leetcode.com/problems/word-search/",
-        "youtubeLink": "https://www.youtube.com/watch?v=pfiQ_PS1g8E&pp=ygULd29yZCBzZWFyY2g%3D"
-      },
-      {
-        "id": 40,
-        "title": "Implement Trie Prefix Tree",
-        "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=oobqoCJlHA0&pp=ygUaaW1wbGVtZW50IHRyaWUgcHJlZml4IHRyZWU%3D"
-      },
-      {
-        "id": 41,
-        "title": "Design and Add Search Words Data Structure",
-        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BTf05gs_8iU&pp=ygUqZGVzaWduIGFkZCBhbmQgc2VhcmNoIHdvcmRzIGRhdGEgc3RydWN0dXJl"
-      },
-      {
-        "id": 42,
-        "title": "Number of Islands",
-        "link": "https://leetcode.com/problems/number-of-islands/",
-        "youtubeLink": "https://www.youtube.com/watch?v=muncqlKJrH0&pp=ygURbnVtYmVyIG9mIGlzbGFuZHM%3D"
-      },
-      {
-        "id": 43,
-        "title": "Clone Graph",
-        "link": "https://leetcode.com/problems/clone-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mQeF6bN8hMk&pp=ygULY2xvbmUgZ3JhcGg%3D"
-      },
-      {
-        "id": 44,
-        "title": "Pacific Atlantic Water Flow",
-        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-        "youtubeLink": "https://www.youtube.com/watch?v=s-VkcjHqkGI&pp=ygUbcGFjaWZpYyBhdGxhbnRpYyB3YXRlciBmbG93"
-      },
-      {
-        "id": 45,
-        "title": "Course Schedule",
-        "link": "https://leetcode.com/problems/course-schedule/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WAOfKpxYHR8&pp=ygUPY291cnNlIHNjaGVkdWxl"
-      },
-      {
-        "id": 46,
-        "title": "Graph Valid Tree",
-        "link": "https://leetcode.com/problems/graph-valid-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bXsUuownnoQ&pp=ygUQZ3JhcGggdmFsaWQgdHJlZQ%3D%3D"
-      },
-      {
-        "id": 47,
-        "title": "Number of Connected Components in an Undirected Graph",
-        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=I6v0itcISSY&pp=ygU1bnVtYmVyIG9mIGNvbm5lY3RlZCBjb21wb25lbnRzIGluIGFuIHVuZGlyZWN0ZWQgZ3JhcGg%3D"
-      },
-      {
-        "id": 48,
-        "title": "House Robber",
-        "link": "https://leetcode.com/problems/house-robber/",
-        "youtubeLink": "https://www.youtube.com/watch?v=73r3KWiEvyk&pp=ygUVaG91c2Ugcm9iYmVyIGxlZXRjb2Rl"
-      },
-      {
-        "id": 49,
-        "title": "House Robber II",
-        "link": "https://leetcode.com/problems/house-robber-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3WaxQMELSkw&pp=ygUXaG91c2Ugcm9iYmVyIDIgbGVldGNvZGU%3D"
-      },
-      {
-        "id": 50,
-        "title": "Longest Palindromic Substring",
-        "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6i_T5kkfv4A&pp=ygUdTG9uZ2VzdCBQYWxpbmRyb21pYyBTdWJzdHJpbmc%3D"
-      },
-      {
-        "id": 51,
-        "title": "Palindromic Substrings",
-        "link": "https://leetcode.com/problems/palindromic-substrings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=4RACzI5-du8&pp=ygUVUGFsaW5kcm9taWMgU3Vic3RyaW5n"
-      },
-      {
-        "id": 52,
-        "title": "Decode Ways",
-        "link": "https://leetcode.com/problems/decode-ways/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6aEyTjOwlJU&pp=ygULZGVjb2RlIHdheXM%3D"
-      },
-      {
-        "id": 53,
-        "title": "Coin Change",
-        "link": "https://leetcode.com/problems/coin-change/",
-        "youtubeLink": "https://www.youtube.com/watch?v=H9bfqozjoqs&pp=ygULY29pbiBjaGFuZ2U%3D"
-      },
-      {
-        "id": 54,
-        "title": "Maximum Product Subarray",
-        "link": "https://leetcode.com/problems/maximum-product-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=hnswaLJvr6g&pp=ygUYbWF4aW11bSBwcm9kdWN0IHN1YmFycmF5"
-      },
-      {
-        "id": 55,
-        "title": "Word Break",
-        "link": "https://leetcode.com/problems/word-break/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Sx9NNgInc3A&pp=ygUKd29yZCBicmVhag%3D%3D"
-      },
-      {
-        "id": 56,
-        "title": "Longest Increasing Subsequence",
-        "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=ekcwMsSIzVc&pp=ygUeTG9uZ2VzdCBJbmNyZWFzaW5nIFN1YnNlcXVlbmNl"
-      },
-      {
-        "id": 57,
-        "title": "Unique Paths",
-        "link": "https://leetcode.com/problems/unique-paths/",
-        "youtubeLink": "https://www.youtube.com/watch?v=IlEsdxuD4lY&pp=ygUMdW5pcXVlIHBhdGhz"
-      },
-      {
-        "id": 58,
-        "title": "Longest Common Subsequence",
-        "link": "https://leetcode.com/problems/longest-common-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=NPZn9jBrX8U&pp=ygUaTG9uZ2VzdCBDb21tb24gU3Vic2VxdWVuY2U%3D"
-      },
-      {
-        "id": 59,
-        "title": "Maximum Subarray",
-        "link": "https://leetcode.com/problems/maximum-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=AHZpyENo7k4&pp=ygUQTWF4aW11bSBTdWJhcnJheQ%3D%3D"
-      },
-      {
-        "id": 60,
-        "title": "Jump Game",
-        "link": "https://leetcode.com/problems/jump-game/",
-        "youtubeLink": "https://www.youtube.com/watch?v=tZAa_jJ3SwQ&pp=ygUJSnVtcCBnYW1l"
-      },
-      {
-        "id": 61,
-        "title": "Insert Interval",
-        "link": "https://leetcode.com/problems/insert-interval/",
-        "youtubeLink": "https://www.youtube.com/watch?v=xxRE-46OCC8&pp=ygUPaW5zZXJ0IGludGVydmFs"
-      },
-      {
-        "id": 62,
-        "title": "Merge Intervals",
-        "link": "https://leetcode.com/problems/merge-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=44H3cEC2fFM&pp=ygUObWVyZ2UgaW50ZXJ2YWw%3D"
-      },
-      {
-        "id": 63,
-        "title": "Non Overlapping Intervals",
-        "link": "https://leetcode.com/problems/non-overlapping-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=HDHQ8lAWakY&pp=ygUZTm9uIE92ZXJsYXBwaW5nIEludGVydmFscw%3D%3D"
-      },
-      {
-        "id": 64,
-        "title": "Meeting Rooms II",
-        "link": "https://leetcode.com/problems/meeting-rooms-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=FdzJmTCVyJU&pp=ygUQTWVldGluZyBSb29tcyBJSQ%3D%3D"
-      },
-      {
-        "id": 65,
-        "title": "Rotate Image",
-        "link": "https://leetcode.com/problems/rotate-image/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Z0R2u6gd3GU&pp=ygUMUm90YXRlIEltYWdl"
-      },
-      {
-        "id": 66,
-        "title": "Spiral Matrix",
-        "link": "https://leetcode.com/problems/spiral-matrix/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3Zv-s9UUrFM&pp=ygUNc3BpcmFsIG1hdHJyaQ%3D%3D"
-      },
-      {
-        "id": 67,
-        "title": "Set Matrix Zeros",
-        "link": "https://leetcode.com/problems/set-matrix-zeroes/",
-        "youtubeLink": "https://www.youtube.com/watch?v=N0MgLvceX7M&pp=ygURc2V0IG1hdHJpeCB6ZXJvZXM%3D"
-      },
-      {
-        "id": 68,
-        "title": "Sum of Two Integers",
-        "link": "https://leetcode.com/problems/sum-of-two-integers/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gVUrDV4tZfY&pp=ygUTU3VtIG9mIFR3byBJbnRlZ2Vycw%3D%3D"
-      }
-    ],
-    "hard": [
-      {
-        "id": 69,
-        "title": "Minimum Window Substring",
-        "link": "https://leetcode.com/problems/minimum-window-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WJaij9ffOIY&pp=ygUYbWF4aW11bSB3aW5kb3cgc3Vic3RyaW5n"
-      },
-      {
-        "id": 70,
-        "title": "Merge K Sorted Lists",
-        "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=1zktEppsdig&pp=ygUUbWVyZ2UgayBzb3J0ZWQgbGlzdHM%3D"
-      },
-      {
-        "id": 71,
-        "title": "Binary Tree Maximum Path Sum",
-        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WszrfSwMz58&pp=ygUcYmluYXJ5IHRyZWUgbWF4aW11bSBwYXRoIHN1bQ%3D%3D"
-      },
-      {
-        "id": 72,
-        "title": "Serialize and Deserialize Binary Tree",
-        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-YbXySKJsX8&pp=ygUoc2VyaWFsaXplIGRlc2VyaWFsaXplIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
-      },
-      {
-        "id": 73,
-        "title": "Find Median From Data Stream",
-        "link": "https://leetcode.com/problems/find-median-from-data-stream/",
-        "youtubeLink": "https://www.youtube.com/watch?v=itmhHWaHupI&pp=ygUcZmluZCBtZWRpYW4gZnJvbSBkYXRhIHN0cmVhbQ%3D%3D"
-      },
-      {
-        "id": 74,
-        "title": "Word Search II",
-        "link": "https://leetcode.com/problems/word-search-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=asbcE9mZz_U&pp=ygUOd29yZCBzZWFyY2ggaWk%3D"
-      },
-      {
-        "id": 75,
-        "title": "Alien Dictionary",
-        "link": "https://leetcode.com/problems/alien-dictionary/",
-        "youtubeLink": "https://www.youtube.com/watch?v=U3N_je7tWAs&pp=ygUZYWxpZW4gZGljdGlvbmFyeSBsZWV0Y29kZQ%3D%3D"
-      }
-    ]
-  },
-  "set_75": {
-    "easy": [
-      {
-        "id": 1,
-        "title": "Contains Duplicate",
-        "link": "https://leetcode.com/problems/contains-duplicate/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3OamzN90kPg&pp=ygUcY29udGFpbnMgZHVwbGljYXRlIGxlZXRjb2RlIA%3D%3D"
-      },
-      {
-        "id": 2,
-        "title": "Valid Anagram",
-        "link": "https://leetcode.com/problems/valid-anagram/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9UtInBqnCgA&pp=ygUWdmFsaWQgYW5hZ3JhbSBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 3,
-        "title": "Two Sum",
-        "link": "https://leetcode.com/problems/two-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UXDSeD9mN-k&pp=ygUHdHdvIHN1bQ%3D%3D"
-      },
-      {
-        "id": 4,
-        "title": "Valid Palindrome",
-        "link": "https://leetcode.com/problems/valid-palindrome/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jJXJ16kPFWg&pp=ygUPdmFsaWQgcGFpbWRyb21l"
-      },
-      {
-        "id": 5,
-        "title": "Buy and Sell Stock",
-        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-        "youtubeLink": "https://www.youtube.com/watch?v=excAOvwF_Wk&pp=ygUbYnV5IGFuZCBzZWxsIHN0b2NrIGxlZXRjb2Rl.com/example1"
-      },
-      {
-        "id": 7,
-        "title": "Reverse Linked List",
-        "link": "https://leetcode.com/problems/reverse-linked-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=D2vI2DNJGd8&ab_channel=takeUforward"
-      },
-      {
-        "id": 8,
-        "title": "Merge two Sorted Lists",
-        "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jXu-H7XuClE&pp=ygUWbWVyZ2UgdHdvIHNvcnRlZCBsaXN0cw%3D%3D"
-      },
-      {
-        "id": 9,
-        "title": "Linked List Cycle",
-        "link": "https://leetcode.com/problems/linked-list-cycle/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gBTe7lFR3vc&pp=ygURbGlua2VkIGxpc3QgY3ljbGU%3D"
-      },
-      {
-        "id": 10,
-        "title": "Invert Binary Tree",
-        "link": "https://leetcode.com/problems/invert-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OnSn2XEQ4MY&pp=ygUSaW52ZXJ0IGJpbmFyeSB0cmVl"
-      },
-      {
-        "id": 11,
-        "title": "Maximum Depth of Binary Tree",
-        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=eD3tmO66aBA&pp=ygUcbWF4aW11bSBkZXB0aCBvZiBiaW5hcnkgdHJlZQ%3D%3D"
-      },
-      {
-        "id": 12,
-        "title": "Same Tree",
-        "link": "https://leetcode.com/problems/same-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BhuvF_-PWS0&pp=ygUSc2FtZSB0cmVlIGxlZXRjb2Rl"
-      },
-      {
-        "id": 13,
-        "title": "Subtree of Another Teee",
-        "link": "https://leetcode.com/problems/subtree-of-another-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=E36O5SWp-LE&pp=ygUXc3VidHJlZSBvZiBhbm90aGVyIHRyZWU%3D"
-      },
-      {
-        "id": 14,
-        "title": "Climbing Stairs",
-        "link": "https://leetcode.com/problems/climbing-stairs/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mLfjzJsN8us&pp=ygUYY2xpbWJpbmcgc3RhaXJzIGxlZXRjb2Rl1"
-      },
-      {
-        "id": 15,
-        "title": "Meeting Rooms",
-        "link": "https://leetcode.com/problems/meeting-rooms/",
-        "youtubeLink": "https://www.youtube.com/watch?v=PaJxqZVPhbg&pp=ygUWbWVldGluZyByb29tcyBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 16,
-        "title": "Number of 1 Bits",
-        "link": "https://leetcode.com/problems/number-of-1-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5Km3utixwZs&pp=ygUmbWVldGluZyByb29tcyBsZWV0Y29kZW51bWJlciBvZiAxIGJpdHM%3D"
-      },
-      {
-        "id": 17,
-        "title": "Counting Bits",
-        "link": "https://leetcode.com/problems/counting-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=RyBM56RIWrM&pp=ygUWY291bnRpbmcgYml0cyBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 18,
-        "title": "Reverse Bits",
-        "link": "https://leetcode.com/problems/reverse-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UcoN6UjAI64&pp=ygUMcmV2ZXJzZSBiaXRz"
-      },
-      {
-        "id": 19,
-        "title": "Missing Number",
-        "link": "https://leetcode.com/problems/missing-number/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bYWLJb3vCWY&pp=ygUObWlzc2luZyBudW1iZXI%3D"
-      }
-    ],
-    "medium": [
-      {
-        "id": 20,
-        "title": "Group Anangrams",
-        "link": "https://leetcode.com/problems/group-anagrams/",
-        "youtubeLink": "https://www.youtube.com/watch?v=vzdNOK2oB2E&pp=ygUXZ3JvdXAgYW5hZ3JhbXMgbGVldGNvZGU%3D"
-      },
-      {
-        "id": 21,
-        "title": "Top K Frequent Elements",
-        "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-        "youtubeLink": "https://www.youtube.com/watch?v=YPTqKIgVk-k&pp=ygUXdG9wIGsgZnJlcXVlbnQgZWxlbWVudHM%3D"
-      },
-      {
-        "id": 22,
-        "title": "Encode and Decode Strings",
-        "link": "https://leetcode.com/problems/encode-and-decode-strings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=B1k_sxOSgv8&pp=ygUZZW5jb2RlIGFuZCBkZWNvZGUgc3RyaW5ncw%3D%3D"
-      },
-      {
-        "id": 23,
-        "title": "product of Array Except Self",
-        "link": "https://leetcode.com/problems/product-of-array-except-self/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bNvIQI2wAjk&pp=ygUccHJvZHVjdCBvZiBhcnJheSBleGNlcHQgc2VsZg%3D%3D"
-      },
-      {
-        "id": 24,
-        "title": "Longest Consecutive Sequence",
-        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "youtubeLink": "https://www.youtube.com/watch?v=oO5uLE7EUlM&pp=ygUcbG9uZ2VzdCBjb25zZWN1dGl2ZSBzZXF1ZW5jZQ%3D%3D"
-      },
-      {
-        "id": 25,
-        "title": "3Sum",
-        "link": "https://leetcode.com/problems/3sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=DhFh8Kw7ymk&pp=ygUFMyBzdW0%3D"
-      },
-      {
-        "id": 26,
-        "title": "Container With Most Water",
-        "link": "https://leetcode.com/problems/container-with-most-water/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UuiTKBwPgAo&pp=ygUZY29udGFpbmVyIHdpdGggbW9zdCB3YXRlcg%3D%3D"
-      },
-      {
-        "id": 27,
-        "title": "Longest Substring Without Repeating Characters",
-        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-zSxTJkcdAo&pp=ygUubG9uZ2VzdCBzdWJzdHJpbmcgd2l0aG91dCByZXBlYXRpbmcgY2hhcmFjdGVycw%3D%3D"
-      },
-      {
-        "id": 28,
-        "title": "Longest Repeating Character Replacement",
-        "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-        "youtubeLink": "https://www.youtube.com/watch?v=_eNhaDCr6P0&pp=ygUnbG9uZ2VzdCByZXBlYXRpbmcgY2hhcmFjdGVyIHJlcGxhY2VtZW50"
-      },
-      {
-        "id": 29,
-        "title": "Find Minimum in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=nhEMDKMB44g&pp=ygUkZmluZCBtaW5pbXVtIGluIHJvdGF0ZWQgc29ydGVkIGFycmF5"
-      },
-      {
-        "id": 30,
-        "title": "Search in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5qGrJbHhqFs&pp=ygUfc2VhcmNoICBpbiByb3RhdGVkIHNvcnRlZCBhcnJheQ%3D%3D"
-      },
-      {
-        "id": 31,
-        "title": "Reorder List",
-        "link": "https://leetcode.com/problems/reorder-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=S5bfdUTrKLM&pp=ygUMcmVvcmRlciBsaXN0"
-      },
-      {
-        "id": 32,
-        "title": "Remove nth Node From End of the List",
-        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3kMKYQ2wNIU&pp=ygUgcmVtb3ZlIG50aCBub2RlIGZyb20gZW5kIG9mIGxpc3Q%3D"
-      },
-      {
-        "id": 33,
-        "title": "Lowest Common Ancestor of a BST",
-        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=cX_kPV_foZc&pp=ygUubG93ZXN0IGNvbW1vbiBhbmNlc3RvciBvZiBhIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
-      },
-      {
-        "id": 34,
-        "title": "Binary Tree Level Order Traversal",
-        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=EoAsWbO7sqg&pp=ygUhYmluYXJ5IHRyZWUgbGV2ZWwgb3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 35,
-        "title": "Validate BST",
-        "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=f-sj7I5oXEI&pp=ygUMdmFsaWRhdGUgYnN0"
-      },
-      {
-        "id": 36,
-        "title": "Kth Smallest Element in a BST",
-        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9TJYWh0adfk&pp=ygUea3RoIHNtYWxsZXN0IGVsZW1lbnQgaW4gYW4gYnN0"
-      },
-      {
-        "id": 37,
-        "title": "Construct Binary Tree from Preorder and Postorder Traversal",
-        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=aZNaLrVebKQ&pp=ygU5Y29uc3RydWN0IGJpbmFyeSB0cmVlIGZyb20gcHJlb3JkZXIgYW5kIGlub3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 38,
-        "title": "Combination Sum",
-        "link": "https://leetcode.com/problems/combination-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OyZFFqQtu98&pp=ygUPY29tYmluYXRpb24gc3Vt"
-      },
-      {
-        "id": 39,
-        "title": "Word Search",
-        "link": "https://leetcode.com/problems/word-search/",
-        "youtubeLink": "https://www.youtube.com/watch?v=pfiQ_PS1g8E&pp=ygULd29yZCBzZWFyY2g%3D"
-      },
-      {
-        "id": 40,
-        "title": "Implement Trie Prefix Tree",
-        "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=oobqoCJlHA0&pp=ygUaaW1wbGVtZW50IHRyaWUgcHJlZml4IHRyZWU%3D"
-      },
-      {
-        "id": 41,
-        "title": "Design and Add Search Words Data Structure",
-        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BTf05gs_8iU&pp=ygUqZGVzaWduIGFkZCBhbmQgc2VhcmNoIHdvcmRzIGRhdGEgc3RydWN0dXJl"
-      },
-      {
-        "id": 42,
-        "title": "Number of Islands",
-        "link": "https://leetcode.com/problems/number-of-islands/",
-        "youtubeLink": "https://www.youtube.com/watch?v=muncqlKJrH0&pp=ygURbnVtYmVyIG9mIGlzbGFuZHM%3D"
-      },
-      {
-        "id": 43,
-        "title": "Clone Graph",
-        "link": "https://leetcode.com/problems/clone-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mQeF6bN8hMk&pp=ygULY2xvbmUgZ3JhcGg%3D"
-      },
-      {
-        "id": 44,
-        "title": "Pacific Atlantic Water Flow",
-        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-        "youtubeLink": "https://www.youtube.com/watch?v=s-VkcjHqkGI&pp=ygUbcGFjaWZpYyBhdGxhbnRpYyB3YXRlciBmbG93"
-      },
-      {
-        "id": 45,
-        "title": "Course Schedule",
-        "link": "https://leetcode.com/problems/course-schedule/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WAOfKpxYHR8&pp=ygUPY291cnNlIHNjaGVkdWxl"
-      },
-      {
-        "id": 46,
-        "title": "Graph Valid Tree",
-        "link": "https://leetcode.com/problems/graph-valid-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bXsUuownnoQ&pp=ygUQZ3JhcGggdmFsaWQgdHJlZQ%3D%3D"
-      },
-      {
-        "id": 47,
-        "title": "Number of Connected Components in an Undirected Graph",
-        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=I6v0itcISSY&pp=ygU1bnVtYmVyIG9mIGNvbm5lY3RlZCBjb21wb25lbnRzIGluIGFuIHVuZGlyZWN0ZWQgZ3JhcGg%3D"
-      },
-      {
-        "id": 48,
-        "title": "House Robber",
-        "link": "https://leetcode.com/problems/house-robber/",
-        "youtubeLink": "https://www.youtube.com/watch?v=73r3KWiEvyk&pp=ygUVaG91c2Ugcm9iYmVyIGxlZXRjb2Rl"
-      },
-      {
-        "id": 49,
-        "title": "House Robber II",
-        "link": "https://leetcode.com/problems/house-robber-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3WaxQMELSkw&pp=ygUXaG91c2Ugcm9iYmVyIDIgbGVldGNvZGU%3D"
-      },
-      {
-        "id": 50,
-        "title": "Longest Palindromic Substring",
-        "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6i_T5kkfv4A&pp=ygUdTG9uZ2VzdCBQYWxpbmRyb21pYyBTdWJzdHJpbmc%3D"
-      },
-      {
-        "id": 51,
-        "title": "Palindromic Substrings",
-        "link": "https://leetcode.com/problems/palindromic-substrings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=4RACzI5-du8&pp=ygUVUGFsaW5kcm9taWMgU3Vic3RyaW5n"
-      },
-      {
-        "id": 52,
-        "title": "Decode Ways",
-        "link": "https://leetcode.com/problems/decode-ways/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6aEyTjOwlJU&pp=ygULZGVjb2RlIHdheXM%3D"
-      },
-      {
-        "id": 53,
-        "title": "Coin Change",
-        "link": "https://leetcode.com/problems/coin-change/",
-        "youtubeLink": "https://www.youtube.com/watch?v=H9bfqozjoqs&pp=ygULY29pbiBjaGFuZ2U%3D"
-      },
-      {
-        "id": 54,
-        "title": "Maximum Product Subarray",
-        "link": "https://leetcode.com/problems/maximum-product-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=hnswaLJvr6g&pp=ygUYbWF4aW11bSBwcm9kdWN0IHN1YmFycmF5"
-      },
-      {
-        "id": 55,
-        "title": "Word Break",
-        "link": "https://leetcode.com/problems/word-break/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Sx9NNgInc3A&pp=ygUKd29yZCBicmVhag%3D%3D"
-      },
-      {
-        "id": 56,
-        "title": "Longest Increasing Subsequence",
-        "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=ekcwMsSIzVc&pp=ygUeTG9uZ2VzdCBJbmNyZWFzaW5nIFN1YnNlcXVlbmNl"
-      },
-      {
-        "id": 57,
-        "title": "Unique Paths",
-        "link": "https://leetcode.com/problems/unique-paths/",
-        "youtubeLink": "https://www.youtube.com/watch?v=IlEsdxuD4lY&pp=ygUMdW5pcXVlIHBhdGhz"
-      },
-      {
-        "id": 58,
-        "title": "Longest Common Subsequence",
-        "link": "https://leetcode.com/problems/longest-common-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=NPZn9jBrX8U&pp=ygUaTG9uZ2VzdCBDb21tb24gU3Vic2VxdWVuY2U%3D"
-      },
-      {
-        "id": 59,
-        "title": "Maximum Subarray",
-        "link": "https://leetcode.com/problems/maximum-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=AHZpyENo7k4&pp=ygUQTWF4aW11bSBTdWJhcnJheQ%3D%3D"
-      },
-      {
-        "id": 60,
-        "title": "Jump Game",
-        "link": "https://leetcode.com/problems/jump-game/",
-        "youtubeLink": "https://www.youtube.com/watch?v=tZAa_jJ3SwQ&pp=ygUJSnVtcCBnYW1l"
-      },
-      {
-        "id": 61,
-        "title": "Insert Interval",
-        "link": "https://leetcode.com/problems/insert-interval/",
-        "youtubeLink": "https://www.youtube.com/watch?v=xxRE-46OCC8&pp=ygUPaW5zZXJ0IGludGVydmFs"
-      },
-      {
-        "id": 62,
-        "title": "Merge Intervals",
-        "link": "https://leetcode.com/problems/merge-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=44H3cEC2fFM&pp=ygUObWVyZ2UgaW50ZXJ2YWw%3D"
-      },
-      {
-        "id": 63,
-        "title": "Non Overlapping Intervals",
-        "link": "https://leetcode.com/problems/non-overlapping-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=HDHQ8lAWakY&pp=ygUZTm9uIE92ZXJsYXBwaW5nIEludGVydmFscw%3D%3D"
-      },
-      {
-        "id": 64,
-        "title": "Meeting Rooms II",
-        "link": "https://leetcode.com/problems/meeting-rooms-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=FdzJmTCVyJU&pp=ygUQTWVldGluZyBSb29tcyBJSQ%3D%3D"
-      },
-      {
-        "id": 65,
-        "title": "Rotate Image",
-        "link": "https://leetcode.com/problems/rotate-image/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Z0R2u6gd3GU&pp=ygUMUm90YXRlIEltYWdl"
-      },
-      {
-        "id": 66,
-        "title": "Spiral Matrix",
-        "link": "https://leetcode.com/problems/spiral-matrix/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3Zv-s9UUrFM&pp=ygUNc3BpcmFsIG1hdHJyaQ%3D%3D"
-      },
-      {
-        "id": 67,
-        "title": "Set Matrix Zeros",
-        "link": "https://leetcode.com/problems/set-matrix-zeroes/",
-        "youtubeLink": "https://www.youtube.com/watch?v=N0MgLvceX7M&pp=ygURc2V0IG1hdHJpeCB6ZXJvZXM%3D"
-      },
-      {
-        "id": 68,
-        "title": "Sum of Two Integers",
-        "link": "https://leetcode.com/problems/sum-of-two-integers/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gVUrDV4tZfY&pp=ygUTU3VtIG9mIFR3byBJbnRlZ2Vycw%3D%3D"
-      }
-    ],
-    "hard": [
-      {
-        "id": 69,
-        "title": "Minimum Window Substring",
-        "link": "https://leetcode.com/problems/minimum-window-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WJaij9ffOIY&pp=ygUYbWF4aW11bSB3aW5kb3cgc3Vic3RyaW5n"
-      },
-      {
-        "id": 70,
-        "title": "Merge K Sorted Lists",
-        "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=1zktEppsdig&pp=ygUUbWVyZ2UgayBzb3J0ZWQgbGlzdHM%3D"
-      },
-      {
-        "id": 71,
-        "title": "Binary Tree Maximum Path Sum",
-        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WszrfSwMz58&pp=ygUcYmluYXJ5IHRyZWUgbWF4aW11bSBwYXRoIHN1bQ%3D%3D"
-      },
-      {
-        "id": 72,
-        "title": "Serialize and Deserialize Binary Tree",
-        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-YbXySKJsX8&pp=ygUoc2VyaWFsaXplIGRlc2VyaWFsaXplIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
-      },
-      {
-        "id": 73,
-        "title": "Find Median From Data Stream",
-        "link": "https://leetcode.com/problems/find-median-from-data-stream/",
-        "youtubeLink": "https://www.youtube.com/watch?v=itmhHWaHupI&pp=ygUcZmluZCBtZWRpYW4gZnJvbSBkYXRhIHN0cmVhbQ%3D%3D"
-      },
-      {
-        "id": 74,
-        "title": "Word Search II",
-        "link": "https://leetcode.com/problems/word-search-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=asbcE9mZz_U&pp=ygUOd29yZCBzZWFyY2ggaWk%3D"
-      },
-      {
-        "id": 75,
-        "title": "Alien Dictionary",
-        "link": "https://leetcode.com/problems/alien-dictionary/",
-        "youtubeLink": "https://www.youtube.com/watch?v=U3N_je7tWAs&pp=ygUZYWxpZW4gZGljdGlvbmFyeSBsZWV0Y29kZQ%3D%3D"
-      }
-    ]
-  },
-  "set_150": {
-    "easy": [
-      {
-        "id": 1,
-        "title": "Contains Duplicate",
-        "link": "https://leetcode.com/problems/contains-duplicate/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3OamzN90kPg&pp=ygUcY29udGFpbnMgZHVwbGljYXRlIGxlZXRjb2RlIA%3D%3D"
-      },
-      {
-        "id": 2,
-        "title": "Valid Anagram",
-        "link": "https://leetcode.com/problems/valid-anagram/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9UtInBqnCgA&pp=ygUWdmFsaWQgYW5hZ3JhbSBsZWV0Y29kZQ%3D%3D"
-      },
-      {
-        "id": 3,
-        "title": "Two Sum",
-        "link": "https://leetcode.com/problems/two-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UXDSeD9mN-k&pp=ygUHdHdvIHN1bQ%3D%3D"
-      },
-      {
-        "id": 4,
-        "title": "Valid Palindrome",
-        "link": "https://leetcode.com/problems/valid-palindrome/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jJXJ16kPFWg&pp=ygUPdmFsaWQgcGFpbWRyb21l"
-      },
-      {
-        "id": 5,
-        "title": "Buy and Sell Stock",
-        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-        "youtubeLink": "https://www.youtube.com/watch?v=excAOvwF_Wk&pp=ygUbYnV5IGFuZCBzZWxsIHN0b2NrIGxlZXRjb2Rl"
+        "title": "Is Subsequence",
+        "link": "https://leetcode.com/problems/is-subsequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=99RVfqklbCE"
       },
       {
         "id": 6,
-        "title": "Valid Paranthesis",
-        "link": "https://leetcode.com/problems/valid-parentheses/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Length of Last Word",
+        "link": "https://leetcode.com/problems/length-of-last-word/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KT9rltZTybQ"
       },
       {
         "id": 7,
-        "title": "Reverse Linked List",
-        "link": "https://leetcode.com/problems/reverse-linked-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=D2vI2DNJGd8&ab_channel=takeUforward"
+        "title": "Two Sum",
+        "link": "https://leetcode.com/problems/two-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KLlXCFG5TnA"
       },
       {
         "id": 8,
-        "title": "Merge two Sorted Lists",
-        "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=jXu-H7XuClE&pp=ygUWbWVyZ2UgdHdvIHNvcnRlZCBsaXN0cw%3D%3D"
+        "title": "Longest Common Prefix",
+        "link": "https://leetcode.com/problems/longest-common-prefix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=0sWShKIJoo4"
       },
       {
         "id": 9,
-        "title": "Linked List Cycle",
-        "link": "https://leetcode.com/problems/linked-list-cycle/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gBTe7lFR3vc&pp=ygURbGlua2VkIGxpc3QgY3ljbGU%3D"
+        "title": "Pascals Triangle",
+        "link": "https://leetcode.com/problems/pascals-triangle/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nPVEaB3AjUM"
       },
       {
         "id": 10,
-        "title": "Invert Binary Tree",
-        "link": "https://leetcode.com/problems/invert-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OnSn2XEQ4MY&pp=ygUSaW52ZXJ0IGJpbmFyeSB0cmVl"
+        "title": "Remove Element",
+        "link": "https://leetcode.com/problems/remove-element/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Pcd1ii9P9ZI"
       },
       {
         "id": 11,
-        "title": "Maximum Depth of Binary Tree",
-        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=eD3tmO66aBA&pp=ygUcbWF4aW11bSBkZXB0aCBvZiBiaW5hcnkgdHJlZQ%3D%3D"
+        "title": "Unique Email Addresses",
+        "link": "https://leetcode.com/problems/unique-email-addresses/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TC_xLIWl7qY"
       },
       {
         "id": 12,
-        "title": "Same Tree",
-        "link": "https://leetcode.com/problems/same-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BhuvF_-PWS0&pp=ygUSc2FtZSB0cmVlIGxlZXRjb2Rl"
+        "title": "Isomorphic Strings",
+        "link": "https://leetcode.com/problems/isomorphic-strings/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7yF-U1hLEqQ"
       },
       {
         "id": 13,
-        "title": "Subtree of Another Teee",
-        "link": "https://leetcode.com/problems/subtree-of-another-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=E36O5SWp-LE&pp=ygUXc3VidHJlZSBvZiBhbm90aGVyIHRyZWU%3D"
+        "title": "Can Place Flowers",
+        "link": "https://leetcode.com/problems/can-place-flowers/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ZGxqqjljpUI"
       },
       {
         "id": 14,
-        "title": "Climbing Stairs",
-        "link": "https://leetcode.com/problems/climbing-stairs/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mLfjzJsN8us&pp=ygUYY2xpbWJpbmcgc3RhaXJzIGxlZXRjb2Rl"
+        "title": "Majority Element",
+        "link": "https://leetcode.com/problems/majority-element/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7pnhv842keE"
       },
       {
         "id": 15,
-        "title": "Meeting Rooms",
-        "link": "https://leetcode.com/problems/meeting-rooms/",
-        "youtubeLink": "https://www.youtube.com/watch?v=PaJxqZVPhbg&pp=ygUWbWVldGluZyByb29tcyBsZWV0Y29kZQ%3D%3D"
+        "title": "Next Greater Element I",
+        "link": "https://leetcode.com/problems/next-greater-element-i/",
+        "youtubeLink": "https://www.youtube.com/watch?v=68a1Dc_qVq4"
       },
       {
         "id": 16,
-        "title": "Number of 1 Bits",
-        "link": "https://leetcode.com/problems/number-of-1-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5Km3utixwZs&pp=ygUmbWVldGluZyByb29tcyBsZWV0Y29kZW51bWJlciBvZiAxIGJpdHM%3D"
+        "title": "Find Pivot Index",
+        "link": "https://leetcode.com/problems/find-pivot-index/",
+        "youtubeLink": "https://www.youtube.com/watch?v=u89i60lYx8U"
       },
       {
         "id": 17,
-        "title": "Counting Bits",
-        "link": "https://leetcode.com/problems/counting-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=RyBM56RIWrM&pp=ygUWY291bnRpbmcgYml0cyBsZWV0Y29kZQ%3D%3D"
+        "title": "Range Sum Query - Immutable",
+        "link": "https://leetcode.com/problems/range-sum-query-immutable/",
+        "youtubeLink": "https://www.youtube.com/watch?v=2pndAmo_sMA"
       },
       {
         "id": 18,
-        "title": "Reverse Bits",
-        "link": "https://leetcode.com/problems/reverse-bits/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UcoN6UjAI64&pp=ygUMcmV2ZXJzZSBiaXRz"
+        "title": "Find All Numbers Disappeared in An Array",
+        "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=8i-f24YFWC4"
       },
       {
         "id": 19,
-        "title": "Missing Number",
-        "link": "https://leetcode.com/problems/missing-number/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bYWLJb3vCWY&pp=ygUObWlzc2luZyBudW1iZXI%3D"
+        "title": "Maximum Number of Balloons",
+        "link": "https://leetcode.com/problems/maximum-number-of-balloons/",
+        "youtubeLink": "https://www.youtube.com/watch?v=G9xeB2-7PqY"
       },
       {
         "id": 20,
-        "title": "Binary Search",
-        "link": "https://leetcode.com/problems/binary-search/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Word Pattern",
+        "link": "https://leetcode.com/problems/word-pattern/",
+        "youtubeLink": "https://www.youtube.com/watch?v=W_akoecmCbM"
       },
       {
         "id": 21,
-        "title": "Diameter of Binary Tree",
-        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Design HashSet",
+        "link": "https://leetcode.com/problems/design-hashset/",
+        "youtubeLink": "https://www.youtube.com/watch?v=VymjPQUXjL8"
       },
       {
         "id": 22,
-        "title": "Balanced Binary Tree",
-        "link": "https://leetcode.com/problems/balanced-binary-tree/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Design HashMap",
+        "link": "https://leetcode.com/problems/design-hashmap/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cNWsgbKwwoU"
       },
       {
         "id": 23,
-        "title": "Kth Largest Element in a Stream",
-        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Find The Index of The First Occurrence in a String",
+        "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=JoF0Z7nVSrA"
       },
       {
         "id": 24,
-        "title": "Last Stone Weight",
-        "link": "https://leetcode.com/problems/last-stone-weight/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Sign of An Array",
+        "link": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ILDLM86jNow"
       },
       {
         "id": 25,
-        "title": "Min Cost Climbing Stairs",
-        "link": "https://leetcode.com/problems/min-cost-climbing-stairs/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Find the Difference of Two Arrays",
+        "link": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+        "youtubeLink": "https://www.youtube.com/watch?v=a4wqKR-znBE"
       },
       {
         "id": 26,
-        "title": "Happy Number",
-        "link": "https://leetcode.com/problems/happy-number/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Design Parking System",
+        "link": "https://leetcode.com/problems/design-parking-system/",
+        "youtubeLink": "https://www.youtube.com/watch?v=d5zCHesOrSk"
       },
       {
         "id": 27,
+        "title": "Valid Palindrome",
+        "link": "https://leetcode.com/problems/valid-palindrome/",
+        "youtubeLink": "https://www.youtube.com/watch?v=jJXJ16kPFWg"
+      },
+      {
+        "id": 28,
+        "title": "Valid Palindrome II",
+        "link": "https://leetcode.com/problems/valid-palindrome-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=JrxRYBwG6EI"
+      },
+      {
+        "id": 29,
+        "title": "Minimum Difference Between Highest And Lowest of K Scores",
+        "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+        "youtubeLink": "https://www.youtube.com/watch?v=JU5XdBZZtlk"
+      },
+      {
+        "id": 30,
+        "title": "Merge Strings Alternately",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LECWOvTo-Sc"
+      },
+      {
+        "id": 31,
+        "title": "Reverse String",
+        "link": "https://leetcode.com/problems/reverse-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=_d0T_2Lk2qA"
+      },
+      {
+        "id": 32,
+        "title": "Merge Sorted Array",
+        "link": "https://leetcode.com/problems/merge-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=P1Ic85RarKY"
+      },
+      {
+        "id": 33,
+        "title": "Move Zeroes",
+        "link": "https://leetcode.com/problems/move-zeroes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=aayNRwUN3Do"
+      },
+      {
+        "id": 34,
+        "title": "Remove Duplicates From Sorted Array",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=DEJAZBq0FDA"
+      },
+      {
+        "id": 35,
+        "title": "Best Time to Buy And Sell Stock",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1pkOgXD63yU"
+      },
+      {
+        "id": 36,
+        "title": "Contains Duplicate II",
+        "link": "https://leetcode.com/problems/contains-duplicate-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ypn0aZ0nrL4"
+      },
+      {
+        "id": 37,
+        "title": "Valid Parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses/",
+        "youtubeLink": "https://www.youtube.com/watch?v=WTzjTskDFMg"
+      },
+      {
+        "id": 38,
+        "title": "Baseball Game",
+        "link": "https://leetcode.com/problems/baseball-game/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Id_tqGdsZQI"
+      },
+      {
+        "id": 39,
+        "title": "Implement Stack Using Queues",
+        "link": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "youtubeLink": "https://www.youtube.com/watch?v=rW4vm0-DLYc"
+      },
+      {
+        "id": 40,
+        "title": "Binary Search",
+        "link": "https://leetcode.com/problems/binary-search/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s4DPM8ct1pI"
+      },
+      {
+        "id": 41,
+        "title": "Search Insert Position",
+        "link": "https://leetcode.com/problems/search-insert-position/",
+        "youtubeLink": "https://www.youtube.com/watch?v=K-RYzDZkzCI"
+      },
+      {
+        "id": 42,
+        "title": "Guess Number Higher Or Lower",
+        "link": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+        "youtubeLink": "https://www.youtube.com/watch?v=xW4QsTtaCa4"
+      },
+      {
+        "id": 43,
+        "title": "Arranging Coins",
+        "link": "https://leetcode.com/problems/arranging-coins/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5rHz_6s2Buw"
+      },
+      {
+        "id": 44,
+        "title": "Squares of a Sorted Array",
+        "link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FPCZsG_AkUg"
+      },
+      {
+        "id": 45,
+        "title": "Valid Perfect Square",
+        "link": "https://leetcode.com/problems/valid-perfect-square/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Cg_wWPHJ2Sk"
+      },
+      {
+        "id": 46,
+        "title": "Sqrt(x) ",
+        "link": "https://leetcode.com/problems/sqrtx/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zdMhGxRWutQ"
+      },
+      {
+        "id": 47,
+        "title": "Reverse Linked List",
+        "link": "https://leetcode.com/problems/reverse-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=G0_I-ZF0S38"
+      },
+      {
+        "id": 48,
+        "title": "Merge Two Sorted Lists",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XIdigk956u0"
+      },
+      {
+        "id": 49,
+        "title": "Palindrome Linked List",
+        "link": "https://leetcode.com/problems/palindrome-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=yOzXms1J6Nk"
+      },
+      {
+        "id": 50,
+        "title": "Remove Linked List Elements",
+        "link": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "youtubeLink": "https://www.youtube.com/watch?v=JI71sxtHTng"
+      },
+      {
+        "id": 51,
+        "title": "Remove Duplicates From Sorted List",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=p10f-VpO4nE"
+      },
+      {
+        "id": 52,
+        "title": "Middle of the Linked List",
+        "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=A2_ldqM4QcY"
+      },
+      {
+        "id": 53,
+        "title": "Intersection of Two Linked Lists",
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "youtubeLink": "https://www.youtube.com/watch?v=D0X0BONOQhI"
+      },
+      {
+        "id": 54,
+        "title": "Linked List Cycle",
+        "link": "https://leetcode.com/problems/linked-list-cycle/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gBTe7lFR3vc"
+      },
+      {
+        "id": 55,
+        "title": "Binary Tree Inorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=g_S5WuasWUE"
+      },
+      {
+        "id": 56,
+        "title": "Binary Tree Preorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=afTpieEZXck"
+      },
+      {
+        "id": 57,
+        "title": "Binary Tree Postorder Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=QhszUQhGGlA"
+      },
+      {
+        "id": 58,
+        "title": "Invert Binary Tree",
+        "link": "https://leetcode.com/problems/invert-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OnSn2XEQ4MY"
+      },
+      {
+        "id": 59,
+        "title": "Maximum Depth of Binary Tree",
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=hTM3phVI6YQ"
+      },
+      {
+        "id": 60,
+        "title": "Diameter of Binary Tree",
+        "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bkxqA8Rfv04"
+      },
+      {
+        "id": 61,
+        "title": "Balanced Binary Tree",
+        "link": "https://leetcode.com/problems/balanced-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=QfJsau0ItOY"
+      },
+      {
+        "id": 62,
+        "title": "Same Tree",
+        "link": "https://leetcode.com/problems/same-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=vRbbcKXCxOw"
+      },
+      {
+        "id": 63,
+        "title": "Subtree of Another Tree",
+        "link": "https://leetcode.com/problems/subtree-of-another-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=E36O5SWp-LE"
+      },
+      {
+        "id": 64,
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=0K0uCMYq5ng"
+      },
+      {
+        "id": 65,
+        "title": "Merge Two Binary Trees",
+        "link": "https://leetcode.com/problems/merge-two-binary-trees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=QHH6rIK3dDQ"
+      },
+      {
+        "id": 66,
+        "title": "Path Sum",
+        "link": "https://leetcode.com/problems/path-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LSKQyOz_P8I"
+      },
+      {
+        "id": 67,
+        "title": "Construct String From Binary Tree",
+        "link": "https://leetcode.com/problems/construct-string-from-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=b1WpYxnuebQ"
+      },
+      {
+        "id": 68,
+        "title": "Minimum Distance between BST Nodes",
+        "link": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=joxx4hTYwcw"
+      },
+      {
+        "id": 69,
+        "title": "Symmetric Tree ",
+        "link": "https://leetcode.com/problems/symmetric-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Mao9uzxwvmc"
+      },
+      {
+        "id": 70,
+        "title": "Kth Largest Element In a Stream",
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "youtubeLink": "https://www.youtube.com/watch?v=hOjcdrqMoQ8"
+      },
+      {
+        "id": 71,
+        "title": "Last Stone Weight",
+        "link": "https://leetcode.com/problems/last-stone-weight/",
+        "youtubeLink": "https://www.youtube.com/watch?v=B-QCq79-Vfw"
+      },
+      {
+        "id": 72,
+        "title": "Island Perimeter",
+        "link": "https://leetcode.com/problems/island-perimeter/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fISIuAFRM2s"
+      },
+      {
+        "id": 73,
+        "title": "Verifying An Alien Dictionary",
+        "link": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OVgPAJIyX6o"
+      },
+      {
+        "id": 74,
+        "title": "Climbing Stairs",
+        "link": "https://leetcode.com/problems/climbing-stairs/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Y0lT9Fck7qI"
+      },
+      {
+        "id": 75,
+        "title": "Min Cost Climbing Stairs",
+        "link": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ktmzAZWkEZ0"
+      },
+      {
+        "id": 76,
+        "title": "N-th Tribonacci Number",
+        "link": "https://leetcode.com/problems/n-th-tribonacci-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3lpNp5Ojvrw"
+      },
+      {
+        "id": 77,
+        "title": "Meeting Rooms",
+        "link": "https://www.lintcode.com/title/920/",
+        "youtubeLink": "https://www.youtube.com/watch?v=PaJxqZVPhbg"
+      },
+      {
+        "id": 78,
+        "title": "Excel Sheet Column Title",
+        "link": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "youtubeLink": "https://www.youtube.com/watch?v=X_vJDpCCuoA"
+      },
+      {
+        "id": 79,
+        "title": "Greatest Common Divisor of Strings",
+        "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+        "youtubeLink": "https://www.youtube.com/watch?v=i5I_wrbUdzM"
+      },
+      {
+        "id": 80,
+        "title": "Count Odd Numbers in an Interval Range",
+        "link": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+        "youtubeLink": "https://www.youtube.com/watch?v=wrIWye928JQ"
+      },
+      {
+        "id": 81,
+        "title": "Matrix Diagonal Sum",
+        "link": "https://leetcode.com/problems/matrix-diagonal-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=WliTu6gIK7o"
+      },
+      {
+        "id": 82,
+        "title": "Happy Number",
+        "link": "https://leetcode.com/problems/happy-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ljz85bxOYJ0"
+      },
+      {
+        "id": 83,
         "title": "Plus One",
         "link": "https://leetcode.com/problems/plus-one/",
-        "youtubeLink": "https://youtube.com/"
+        "youtubeLink": "https://www.youtube.com/watch?v=jIaA8boiG1s"
+      },
+      {
+        "id": 84,
+        "title": "Palindrome Number",
+        "link": "https://leetcode.com/problems/palindrome-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=yubRKwixN-U"
+      },
+      {
+        "id": 85,
+        "title": "Ugly Number",
+        "link": "https://leetcode.com/problems/ugly-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=M0Zay1Qr9ws"
+      },
+      {
+        "id": 86,
+        "title": "Shift 2D Grid",
+        "link": "https://leetcode.com/problems/shift-2d-grid/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nJYFh4Dl-as"
+      },
+      {
+        "id": 87,
+        "title": "Roman to Integer",
+        "link": "https://leetcode.com/problems/roman-to-integer/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3jdxYj3DD98"
+      },
+      {
+        "id": 88,
+        "title": "Single Number",
+        "link": "https://leetcode.com/problems/single-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qMPX1AOa83k"
+      },
+      {
+        "id": 89,
+        "title": "Number of 1 Bits",
+        "link": "https://leetcode.com/problems/number-of-1-bits/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5Km3utixwZs"
+      },
+      {
+        "id": 90,
+        "title": "Counting Bits",
+        "link": "https://leetcode.com/problems/counting-bits/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RyBM56RIWrM"
+      },
+      {
+        "id": 91,
+        "title": "Reverse Bits",
+        "link": "https://leetcode.com/problems/reverse-bits/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UcoN6UjAI64"
+      },
+      {
+        "id": 92,
+        "title": "Missing Number",
+        "link": "https://leetcode.com/problems/missing-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=WnPLSRLSANE"
+      },
+      {
+        "id": 93,
+        "title": "Shuffle the Array",
+        "link": "https://leetcode.com/problems/shuffle-the-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=IvIKD_EU8BY"
+      },
+      {
+        "id": 94,
+        "title": "Add to Array-Form of Integer",
+        "link": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+        "youtubeLink": "https://www.youtube.com/watch?v=eBTZQt1TWfk"
+      },
+      {
+        "id": 95,
+        "title": "Add Binary",
+        "link": "https://leetcode.com/problems/add-binary/",
+        "youtubeLink": "https://www.youtube.com/watch?v=keuWJ47xG8g"
+      },
+      {
+        "id": 96,
+        "title": "Create Hello World Function",
+        "link": "https://leetcode.com/problems/create-hello-world-function/",
+        "youtubeLink": "https://www.youtube.com/watch?v=P9Ldx1eTlRc"
+      },
+      {
+        "id": 97,
+        "title": "Counter",
+        "link": "https://leetcode.com/problems/counter/",
+        "youtubeLink": "https://www.youtube.com/watch?v=yEGQQAG5V68"
+      },
+      {
+        "id": 98,
+        "title": "Counter II",
+        "link": "https://leetcode.com/problems/counter-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UXNXKGFZD08"
+      },
+      {
+        "id": 99,
+        "title": "Apply Transform over each Element in Array",
+        "link": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7FhJHA5jlYk"
+      },
+      {
+        "id": 100,
+        "title": "Filter Elements from Array",
+        "link": "https://leetcode.com/problems/filter-elements-from-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=w1o81gbEEJU"
+      },
+      {
+        "id": 101,
+        "title": "Array Reduce Transformation",
+        "link": "https://leetcode.com/problems/array-reduce-transformation/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KmTbYfpGxdM"
+      },
+      {
+        "id": 102,
+        "title": "Function Composition",
+        "link": "https://leetcode.com/problems/function-composition/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mIFw1H7Ljco"
+      },
+      {
+        "id": 103,
+        "title": "Allow One Function Call",
+        "link": "https://leetcode.com/problems/allow-one-function-call/",
+        "youtubeLink": "https://www.youtube.com/watch?v=m_SWhM9iX3s"
+      },
+      {
+        "id": 104,
+        "title": "Sleep",
+        "link": "https://leetcode.com/problems/sleep/",
+        "youtubeLink": "https://www.youtube.com/watch?v=P0D9Z6H7O00"
+      },
+      {
+        "id": 105,
+        "title": "Promise Time Limit",
+        "link": "https://leetcode.com/problems/promise-time-limit/",
+        "youtubeLink": "https://www.youtube.com/watch?v=hfH57rdZhOk"
+      },
+      {
+        "id": 106,
+        "title": "Chunk Array",
+        "link": "https://leetcode.com/problems/chunk-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=VUN-O3B9ceY"
+      },
+      {
+        "id": 107,
+        "title": "Array Prototype Last",
+        "link": "https://leetcode.com/problems/array-prototype-last/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3JdtfMBrUqc"
+      },
+      {
+        "id": 108,
+        "title": "Array Wrapper",
+        "link": "https://leetcode.com/problems/array-wrapper/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XoGjPdPTAVA"
+      },
+      {
+        "id": 109,
+        "title": "Generate Fibonacci Sequence",
+        "link": "https://leetcode.com/problems/generate-fibonacci-sequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=T643rQ70Jlk"
       }
     ],
     "medium": [
       {
-        "id": 28,
-        "title": "Group Anangrams",
-        "link": "https://leetcode.com/problems/group-anagrams/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 29,
-        "title": "Top K Frequent Elements",
-        "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-        "youtubeLink": "https://www.youtube.com/watch?v=YPTqKIgVk-k&pp=ygUXdG9wIGsgZnJlcXVlbnQgZWxlbWVudHM%3D"
-      },
-      {
-        "id": 30,
-        "title": "Encode and Decode Strings",
-        "link": "https://leetcode.com/problems/encode-and-decode-strings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=B1k_sxOSgv8&pp=ygUZZW5jb2RlIGFuZCBkZWNvZGUgc3RyaW5ncw%3D%3D"
-      },
-      {
-        "id": 31,
-        "title": "product of Array Except Self",
-        "link": "https://leetcode.com/problems/product-of-array-except-self/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bNvIQI2wAjk&pp=ygUccHJvZHVjdCBvZiBhcnJheSBleGNlcHQgc2VsZg%3D%3D"
-      },
-      {
-        "id": 32,
-        "title": "Longest Consecutive Sequence",
-        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "youtubeLink": "https://www.youtube.com/watch?v=oO5uLE7EUlM&pp=ygUcbG9uZ2VzdCBjb25zZWN1dGl2ZSBzZXF1ZW5jZQ%3D%3D"
-      },
-      {
-        "id": 33,
-        "title": "3Sum",
-        "link": "https://leetcode.com/problems/3sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=DhFh8Kw7ymk&pp=ygUFMyBzdW0%3D"
-      },
-      {
-        "id": 34,
-        "title": "Container With Most Water",
-        "link": "https://leetcode.com/problems/container-with-most-water/",
-        "youtubeLink": "https://www.youtube.com/watch?v=UuiTKBwPgAo&pp=ygUZY29udGFpbmVyIHdpdGggbW9zdCB3YXRlcg%3D%3D"
-      },
-      {
-        "id": 35,
-        "title": "Longest Substring Without Repeating Characters",
-        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-zSxTJkcdAo&pp=ygUubG9uZ2VzdCBzdWJzdHJpbmcgd2l0aG91dCByZXBlYXRpbmcgY2hhcmFjdGVycw%3D%3D"
-      },
-      {
-        "id": 36,
-        "title": "Longest Repeating Character Replacement",
-        "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-        "youtubeLink": " https://www.youtube.com/watch?v=_eNhaDCr6P0&pp=ygUnbG9uZ2VzdCByZXBlYXRpbmcgY2hhcmFjdGVyIHJlcGxhY2VtZW50"
-      },
-      {
-        "id": 37,
-        "title": "Find Minimum in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=nhEMDKMB44g&pp=ygUkZmluZCBtaW5pbXVtIGluIHJvdGF0ZWQgc29ydGVkIGFycmF5"
-      },
-      {
-        "id": 38,
-        "title": "Search in Rotated Sorted Array",
-        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-        "youtubeLink": "https://www.youtube.com/watch?v=5qGrJbHhqFs&pp=ygUfc2VhcmNoICBpbiByb3RhdGVkIHNvcnRlZCBhcnJheQ%3D%3D"
-      },
-      {
-        "id": 39,
-        "title": "Reorder List",
-        "link": "https://leetcode.com/problems/reorder-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=S5bfdUTrKLM&pp=ygUMcmVvcmRlciBsaXN0"
-      },
-      {
-        "id": 40,
-        "title": "Remove nth Node From End of the List",
-        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3kMKYQ2wNIU&pp=ygUgcmVtb3ZlIG50aCBub2RlIGZyb20gZW5kIG9mIGxpc3Q%3D"
-      },
-      {
-        "id": 41,
-        "title": "Lowest Common Ancestor of a BST",
-        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=cX_kPV_foZc&pp=ygUubG93ZXN0IGNvbW1vbiBhbmNlc3RvciBvZiBhIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
-      },
-      {
-        "id": 42,
-        "title": "Binary Tree Level Order Traversal",
-        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=EoAsWbO7sqg&pp=ygUhYmluYXJ5IHRyZWUgbGV2ZWwgb3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 43,
-        "title": "Validate BST",
-        "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=f-sj7I5oXEI&pp=ygUMdmFsaWRhdGUgYnN0"
-      },
-      {
-        "id": 44,
-        "title": "Kth Smallest Element in a BST",
-        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-        "youtubeLink": "https://www.youtube.com/watch?v=9TJYWh0adfk&pp=ygUea3RoIHNtYWxsZXN0IGVsZW1lbnQgaW4gYW4gYnN0"
-      },
-      {
-        "id": 45,
-        "title": "Construct Binary Tree from Preorder and Postorder Traversal",
-        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-        "youtubeLink": "https://www.youtube.com/watch?v=aZNaLrVebKQ&pp=ygU5Y29uc3RydWN0IGJpbmFyeSB0cmVlIGZyb20gcHJlb3JkZXIgYW5kIGlub3JkZXIgdHJhdmVyc2Fs"
-      },
-      {
-        "id": 46,
-        "title": "Combination Sum",
-        "link": "https://leetcode.com/problems/combination-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=OyZFFqQtu98&pp=ygUPY29tYmluYXRpb24gc3Vt"
-      },
-      {
-        "id": 47,
-        "title": "Word Search",
-        "link": "https://leetcode.com/problems/word-search/",
-        "youtubeLink": "https://www.youtube.com/watch?v=pfiQ_PS1g8E&pp=ygULd29yZCBzZWFyY2g%3D"
-      },
-      {
-        "id": 48,
-        "title": "Implement Trie Prefix Tree",
-        "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=oobqoCJlHA0&pp=ygUaaW1wbGVtZW50IHRyaWUgcHJlZml4IHRyZWU%3D"
-      },
-      {
-        "id": 49,
-        "title": "Design and Add Search Words Data Structure",
-        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-        "youtubeLink": "https://www.youtube.com/watch?v=BTf05gs_8iU&pp=ygUqZGVzaWduIGFkZCBhbmQgc2VhcmNoIHdvcmRzIGRhdGEgc3RydWN0dXJl"
-      },
-      {
-        "id": 50,
-        "title": "Number of Islands",
-        "link": "https://leetcode.com/problems/number-of-islands/",
-        "youtubeLink": "https://www.youtube.com/watch?v=muncqlKJrH0&pp=ygURbnVtYmVyIG9mIGlzbGFuZHM%3D"
-      },
-      {
-        "id": 51,
-        "title": "Clone Graph",
-        "link": "https://leetcode.com/problems/clone-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=mQeF6bN8hMk&pp=ygULY2xvbmUgZ3JhcGg%3D"
-      },
-      {
-        "id": 52,
-        "title": "Pacific Atlantic Water Flow",
-        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-        "youtubeLink": "https://www.youtube.com/watch?v=s-VkcjHqkGI&pp=ygUbcGFjaWZpYyBhdGxhbnRpYyB3YXRlciBmbG93"
-      },
-      {
-        "id": 53,
-        "title": "Course Schedule",
-        "link": "https://leetcode.com/problems/course-schedule/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WAOfKpxYHR8&pp=ygUPY291cnNlIHNjaGVkdWxl"
-      },
-      {
-        "id": 54,
-        "title": "Graph Valid Tree",
-        "link": "https://leetcode.com/problems/graph-valid-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=bXsUuownnoQ&pp=ygUQZ3JhcGggdmFsaWQgdHJlZQ%3D%3D"
-      },
-      {
-        "id": 55,
-        "title": "Number of Connected Components in an Undirected Graph",
-        "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
-        "youtubeLink": "https://www.youtube.com/watch?v=I6v0itcISSY&pp=ygU1bnVtYmVyIG9mIGNvbm5lY3RlZCBjb21wb25lbnRzIGluIGFuIHVuZGlyZWN0ZWQgZ3JhcGg%3D"
-      },
-      {
-        "id": 56,
-        "title": "House Robber",
-        "link": "https://leetcode.com/problems/house-robber/",
-        "youtubeLink": "https://www.youtube.com/watch?v=73r3KWiEvyk&pp=ygUVaG91c2Ugcm9iYmVyIGxlZXRjb2Rl"
-      },
-      {
-        "id": 57,
-        "title": "House Robber II",
-        "link": "https://leetcode.com/problems/house-robber-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3WaxQMELSkw&pp=ygUXaG91c2Ugcm9iYmVyIDIgbGVldGNvZGU%3D"
-      },
-      {
-        "id": 58,
-        "title": "Longest Palindromic Substring",
-        "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6i_T5kkfv4A&pp=ygUdTG9uZ2VzdCBQYWxpbmRyb21pYyBTdWJzdHJpbmc%3D"
-      },
-      {
-        "id": 59,
-        "title": "Palindromic Substrings",
-        "link": "https://leetcode.com/problems/palindromic-substrings/",
-        "youtubeLink": "https://www.youtube.com/watch?v=4RACzI5-du8&pp=ygUVUGFsaW5kcm9taWMgU3Vic3RyaW5n"
-      },
-      {
-        "id": 60,
-        "title": "Decode Ways",
-        "link": "https://leetcode.com/problems/decode-ways/",
-        "youtubeLink": "https://www.youtube.com/watch?v=6aEyTjOwlJU&pp=ygULZGVjb2RlIHdheXM%3D"
-      },
-      {
-        "id": 61,
-        "title": "Coin Change",
-        "link": "https://leetcode.com/problems/coin-change/",
-        "youtubeLink": "https://www.youtube.com/watch?v=H9bfqozjoqs&pp=ygULY29pbiBjaGFuZ2U%3D"
-      },
-      {
-        "id": 62,
-        "title": "Maximum Product Subarray",
-        "link": "https://leetcode.com/problems/maximum-product-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=hnswaLJvr6g&pp=ygUYbWF4aW11bSBwcm9kdWN0IHN1YmFycmF5"
-      },
-      {
-        "id": 63,
-        "title": "Word Break",
-        "link": "https://leetcode.com/problems/word-break/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Sx9NNgInc3A&pp=ygUKd29yZCBicmVhag%3D%3D"
-      },
-      {
-        "id": 64,
-        "title": "Longest Increasing Subsequence",
-        "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=ekcwMsSIzVc&pp=ygUeTG9uZ2VzdCBJbmNyZWFzaW5nIFN1YnNlcXVlbmNl"
-      },
-      {
-        "id": 65,
-        "title": "Unique Paths",
-        "link": "https://leetcode.com/problems/unique-paths/",
-        "youtubeLink": "https://www.youtube.com/watch?v=IlEsdxuD4lY&pp=ygUMdW5pcXVlIHBhdGhz"
-      },
-      {
-        "id": 66,
-        "title": "Longest Common Subsequence",
-        "link": "https://leetcode.com/problems/longest-common-subsequence/",
-        "youtubeLink": "https://www.youtube.com/watch?v=NPZn9jBrX8U&pp=ygUaTG9uZ2VzdCBDb21tb24gU3Vic2VxdWVuY2U%3D"
-      },
-      {
-        "id": 67,
-        "title": "Maximum Subarray",
-        "link": "https://leetcode.com/problems/maximum-subarray/",
-        "youtubeLink": "https://www.youtube.com/watch?v=AHZpyENo7k4&pp=ygUQTWF4aW11bSBTdWJhcnJheQ%3D%3D"
-      },
-      {
-        "id": 68,
-        "title": "Jump Game",
-        "link": "https://leetcode.com/problems/jump-game/",
-        "youtubeLink": "https://www.youtube.com/watch?v=tZAa_jJ3SwQ&pp=ygUJSnVtcCBnYW1l"
-      },
-      {
-        "id": 69,
-        "title": "Insert Interval",
-        "link": "https://leetcode.com/problems/insert-interval/",
-        "youtubeLink": "https://www.youtube.com/watch?v=xxRE-46OCC8&pp=ygUPaW5zZXJ0IGludGVydmFs"
-      },
-      {
-        "id": 70,
-        "title": "Merge Intervals",
-        "link": "https://leetcode.com/problems/merge-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=44H3cEC2fFM&pp=ygUObWVyZ2UgaW50ZXJ2YWw%3D"
-      },
-      {
-        "id": 71,
-        "title": "Non Overlapping Intervals",
-        "link": "https://leetcode.com/problems/non-overlapping-intervals/",
-        "youtubeLink": "https://www.youtube.com/watch?v=HDHQ8lAWakY&pp=ygUZTm9uIE92ZXJsYXBwaW5nIEludGVydmFscw%3D%3D"
-      },
-      {
-        "id": 72,
-        "title": "Meeting Rooms II",
-        "link": "https://leetcode.com/problems/meeting-rooms-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=FdzJmTCVyJU&pp=ygUQTWVldGluZyBSb29tcyBJSQ%3D%3D"
-      },
-      {
-        "id": 73,
-        "title": "Rotate Image",
-        "link": "https://leetcode.com/problems/rotate-image/",
-        "youtubeLink": "https://www.youtube.com/watch?v=Z0R2u6gd3GU&pp=ygUMUm90YXRlIEltYWdl"
-      },
-      {
-        "id": 74,
-        "title": "Spiral Matrix",
-        "link": "https://leetcode.com/problems/spiral-matrix/",
-        "youtubeLink": "https://www.youtube.com/watch?v=3Zv-s9UUrFM&pp=ygUNc3BpcmFsIG1hdHJyaQ%3D%3D"
-      },
-      {
-        "id": 75,
-        "title": "Set Matrix Zeros",
-        "link": "https://leetcode.com/problems/set-matrix-zeroes/",
-        "youtubeLink": "https://www.youtube.com/watch?v=N0MgLvceX7M&pp=ygURc2V0IG1hdHJpeCB6ZXJvZXM%3D"
-      },
-      {
-        "id": 76,
-        "title": "Sum of Two Integers",
-        "link": "https://leetcode.com/problems/sum-of-two-integers/",
-        "youtubeLink": "https://www.youtube.com/watch?v=gVUrDV4tZfY&pp=ygUTU3VtIG9mIFR3byBJbnRlZ2Vycw%3D%3D"
-      },
-      {
-        "id": 77,
-        "title": "Valid Sudoku",
-        "link": "https://leetcode.com/problems/valid-sudoku/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 78,
-        "title": "Two Sum II - Input Array Is Sorted",
-        "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 79,
-        "title": "Permutation in String",
-        "link": "https://leetcode.com/problems/permutation-in-string",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 80,
-        "title": "Min Stack",
-        "link": "https://leetcode.com/problems/min-stack/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 81,
-        "title": "Evaluate Reverse Polish Notation",
-        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 82,
-        "title": "Generate Parenthesis",
-        "link": "https://leetcode.com/problems/generate-parentheses",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 83,
-        "title": "Daily Temperatures",
-        "link": "https://leetcode.com/problems/daily-temperatures/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 84,
-        "title": "Car Fleet",
-        "link": "https://leetcode.com/problems/car-fleet/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 85,
-        "title": "Search in 2D Matrix",
-        "link": "https://leetcode.com/problems/search-a-2d-matrix/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 86,
-        "title": "Koko Eating Bananas",
-        "link": "https://leetcode.com/problems/koko-eating-bananas/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 87,
-        "title": "Time Based Key Value Store",
-        "link": "https://leetcode.com/problems/time-based-key-value-store/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 88,
-        "title": "Reorder List",
-        "link": "https://leetcode.com/problems/reorder-list/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 89,
-        "title": "Remove Nth Node from End of List",
-        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 90,
-        "title": "Copy List with Random Pointer",
-        "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 91,
-        "title": "Add Two Numbers",
-        "link": "https://leetcode.com/problems/add-two-numbers/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 92,
-        "title": "Find the Duplicate Number",
-        "link": "https://leetcode.com/problems/find-the-duplicate-number/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 93,
-        "title": "LRU Cache",
-        "link": "https://leetcode.com/problems/lru-cache/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 94,
-        "title": "Binary Tree Right Side View",
-        "link": "https://leetcode.com/problems/binary-tree-right-side-view/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 95,
-        "title": "Count Good Nodes in a Binary Tree",
-        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 96,
-        "title": "K Closest Points to Origin",
-        "link": "https://leetcode.com/problems/k-closest-points-to-origin/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 97,
-        "title": "Kth Largest Element in an Array",
-        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 98,
-        "title": "Task Scheduler",
-        "link": "https://leetcode.com/problems/task-scheduler/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 99,
-        "title": "Subsets",
-        "link": "https://leetcode.com/problems/subsets/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 100,
-        "title": "Design Twitter",
-        "link": "https://leetcode.com/problems/design-twitter/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 101,
-        "title": "Combination Sum II",
-        "link": "https://leetcode.com/problems/combination-sum-ii/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 102,
-        "title": "Subsets II",
-        "link": "https://leetcode.com/problems/subsets-ii/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 103,
-        "title": "Palindrome Partitioning",
-        "link": "https://leetcode.com/problems/palindrome-partitioning/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 104,
-        "title": "Letter Combinations of a Phone Number",
-        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 105,
-        "title": "Max Area of Island",
-        "link": "https://leetcode.com/problems/max-area-of-island/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 106,
-        "title": "Clone Graph",
-        "link": "https://leetcode.com/problems/clone-graph/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 107,
-        "title": "Walls and Gates",
-        "link": "https://leetcode.com/problems/walls-and-gates/",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 108,
-        "title": "Rotting Oranges",
-        "link": "https://leetcode.com/problems/rotting-oranges",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
-        "id": 109,
-        "title": "Surrounded Regions",
-        "link": "https://leetcode.com/problems/surrounded-regions",
-        "youtubeLink": "https://youtube.com/"
-      },
-      {
         "id": 110,
-        "title": "Course Schedule",
-        "link": "https://leetcode.com/problems/course-schedule/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WAOfKpxYHR8&pp=ygUPY291cnNlIHNjaGVkdWxl"
+        "title": "Group Anagrams",
+        "link": "https://leetcode.com/problems/group-anagrams/",
+        "youtubeLink": "https://www.youtube.com/watch?v=vzdNOK2oB2E"
       },
       {
         "id": 111,
-        "title": "Course Schedule II",
-        "link": "https://leetcode.com/problems/course-schedule-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WAOfKpxYHR8&pp=ygUPY291cnNlIHNjaGVkdWxl"
+        "title": "Sort an Array",
+        "link": "https://leetcode.com/problems/sort-an-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=MsYZSinhuFo"
       },
       {
         "id": 112,
-        "title": "Graph Valid Tree",
-        "link": "https://leetcode.com/problems/graph-valid-tree/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Top K Frequent Elements",
+        "link": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "youtubeLink": "https://www.youtube.com/watch?v=YPTqKIgVk-k"
       },
       {
         "id": 113,
-        "title": "Redundant Connection",
-        "link": "https://leetcode.com/problems/redundant-connection/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Product of Array Except Self",
+        "link": "https://leetcode.com/problems/product-of-array-except-self/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bNvIQI2wAjk"
       },
       {
         "id": 114,
-        "title": "Network Delay Time",
-        "link": "https://leetcode.com/problems/network-delay-time/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Valid Sudoku",
+        "link": "https://leetcode.com/problems/valid-sudoku/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TjFXEUCMqI8"
       },
       {
         "id": 115,
-        "title": "Min Cost to Connect All Points",
-        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Encode and Decode Strings",
+        "link": "https://www.lintcode.com/title/659/",
+        "youtubeLink": "https://www.youtube.com/watch?v=B1k_sxOSgv8"
       },
       {
         "id": 116,
-        "title": "Cheapest Flights With K Stops",
-        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Longest Consecutive Sequence",
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=P6RZZMu_maU"
       },
       {
         "id": 117,
-        "title": "Partial Equal Subset Sum",
-        "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Sort Colors",
+        "link": "https://leetcode.com/problems/sort-colors/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4xbWSRZHqac"
       },
       {
         "id": 118,
-        "title": "Coin Change II",
-        "link": "https://leetcode.com/problems/coin-change-ii/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Encode and Decode TinyURL",
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl/",
+        "youtubeLink": "https://www.youtube.com/watch?v=VyBOaboQLGc"
       },
       {
         "id": 119,
-        "title": "Target Sum",
-        "link": "https://leetcode.com/problems/target-sum",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Brick Wall",
+        "link": "https://leetcode.com/problems/brick-wall/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Kkmv2h48ekw"
       },
       {
         "id": 120,
-        "title": "Edit Distance",
-        "link": "https://leetcode.com/problems/edit-distance/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Best Time to Buy And Sell Stock II",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3SJ3pUkPQMc"
       },
       {
         "id": 121,
-        "title": "Jump Game II",
-        "link": "https://leetcode.com/problems/jump-game-ii/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Subarray Sum Equals K",
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fFVZt-6sgyo"
       },
       {
         "id": 122,
-        "title": "Gas Station",
-        "link": "https://leetcode.com/problems/gas-station/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Unique Length 3 Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3THUt0vAFLU"
       },
       {
         "id": 123,
-        "title": "Hand of Straights",
-        "link": "https://leetcode.com/problems/hand-of-straights/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Minimum Number of Swaps to Make The String Balanced",
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3YDBT9ZrfaU"
       },
       {
         "id": 124,
-        "title": "Merge triplets to Form Target Triplet",
-        "link": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "link": "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/",
+        "youtubeLink": "https://www.youtube.com/watch?v=lEQ8ZlLOuyQ"
       },
       {
         "id": 125,
-        "title": "Partition Labels",
-        "link": "https://leetcode.com/problems/partition-labels/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Maximum Product of The Length of Two Palindromic Subsequences",
+        "link": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/",
+        "youtubeLink": "https://www.youtube.com/watch?v=aoHbYlO8vDg"
       },
       {
         "id": 126,
-        "title": "Valid Paranthesis String",
-        "link": "https://leetcode.com/problems/valid-parenthesis-string/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Grid Game",
+        "link": "https://leetcode.com/problems/grid-game/",
+        "youtubeLink": "https://www.youtube.com/watch?v=N4wDSOw65hI"
       },
       {
         "id": 127,
-        "title": "Pow(x, n)",
-        "link": "https://leetcode.com/problems/powx-n/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Find All Anagrams in a String",
+        "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=G8xtZy0fDKg"
       },
       {
         "id": 128,
-        "title": "Multiply Stirngs",
-        "link": "https://leetcode.com/problems/multiply-strings/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Wiggle Sort",
+        "link": "https://www.lintcode.com/title/508/",
+        "youtubeLink": "https://www.youtube.com/watch?v=vGsyTE4s34w"
       },
       {
         "id": 129,
-        "title": "Detect Squares",
-        "link": "https://leetcode.com/problems/detect-squares/",
-        "youtubeLink": "https://youtube.com/"
+        "title": "Largest Number",
+        "link": "https://leetcode.com/problems/largest-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=WDx6Y4i4xJ8"
       },
       {
         "id": 130,
+        "title": "Continuous Subarray Sum",
+        "link": "https://leetcode.com/problems/continuous-subarray-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OKcrLfR-8mE"
+      },
+      {
+        "id": 131,
+        "title": "Push Dominoes",
+        "link": "https://leetcode.com/problems/push-dominoes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=evUFsOb_iLY"
+      },
+      {
+        "id": 132,
+        "title": "Repeated DNA Sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FzTYfsmtOso"
+      },
+      {
+        "id": 133,
+        "title": "Insert Delete Get Random O(1)",
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+        "youtubeLink": "https://www.youtube.com/watch?v=j4KwhBziOpg"
+      },
+      {
+        "id": 134,
+        "title": "Check if a String Contains all Binary Codes of Size K",
+        "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qU32rTy_kOM"
+      },
+      {
+        "id": 135,
+        "title": "Range Sum Query 2D Immutable",
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KE8MQuwE2yA"
+      },
+      {
+        "id": 136,
+        "title": "Non Decreasing Array",
+        "link": "https://leetcode.com/problems/non-decreasing-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RegQckCegDk"
+      },
+      {
+        "id": 137,
+        "title": "Number of Zero-Filled Subarrays",
+        "link": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+        "youtubeLink": "https://www.youtube.com/watch?v=G-EWVGCcL_w"
+      },
+      {
+        "id": 138,
+        "title": "Optimal Partition of String",
+        "link": "https://leetcode.com/problems/optimal-partition-of-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=CKZPdiXiQf0"
+      },
+      {
+        "id": 139,
+        "title": "Design Underground System",
+        "link": "https://leetcode.com/problems/design-underground-system/",
+        "youtubeLink": "https://www.youtube.com/watch?v=W5QOLqXskZM"
+      },
+      {
+        "id": 140,
+        "title": "Minimum Penalty for a Shop",
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+        "youtubeLink": "https://www.youtube.com/watch?v=0d7ShRoOFVE"
+      },
+      {
+        "id": 141,
+        "title": "Remove Duplicates From Sorted Array II",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ycAq8iqh0TI"
+      },
+      {
+        "id": 142,
+        "title": "Two Sum II Input Array Is Sorted",
+        "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cQ1Oz4ckceM"
+      },
+      {
+        "id": 143,
+        "title": "3Sum",
+        "link": "https://leetcode.com/problems/3sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=jzZsG8n2R9A"
+      },
+      {
+        "id": 144,
+        "title": "4Sum",
+        "link": "https://leetcode.com/problems/4sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=EYeR-_1NRlQ"
+      },
+      {
+        "id": 145,
+        "title": "Container With Most Water",
+        "link": "https://leetcode.com/problems/container-with-most-water/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UuiTKBwPgAo"
+      },
+      {
+        "id": 146,
+        "title": "Number of Subsequences That Satisfy The Given Sum Condition",
+        "link": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/",
+        "youtubeLink": "https://www.youtube.com/watch?v=xCsIkPLS4Ls"
+      },
+      {
+        "id": 147,
+        "title": "Rotate Array",
+        "link": "https://leetcode.com/problems/rotate-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=BHr381Guz3Y"
+      },
+      {
+        "id": 148,
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "link": "https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Wmb3YdVYfqM"
+      },
+      {
+        "id": 149,
+        "title": "Boats to Save People",
+        "link": "https://leetcode.com/problems/boats-to-save-people/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XbaxWuHIWUs"
+      },
+      {
+        "id": 150,
+        "title": "Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold",
+        "link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/",
+        "youtubeLink": "https://www.youtube.com/watch?v=D8B4tKxMTnY"
+      },
+      {
+        "id": 151,
+        "title": "Longest Substring Without Repeating Characters",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "youtubeLink": "https://www.youtube.com/watch?v=wiGpQwVHdE0"
+      },
+      {
+        "id": 152,
+        "title": "Longest Repeating Character Replacement",
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gqXU1UyA8pk"
+      },
+      {
+        "id": 153,
+        "title": "Permutation In String",
+        "link": "https://leetcode.com/problems/permutation-in-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UbyhOgBN834"
+      },
+      {
+        "id": 154,
+        "title": "Frequency of The Most Frequent Element",
+        "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+        "youtubeLink": "https://www.youtube.com/watch?v=vgBrQ0NM5vE"
+      },
+      {
+        "id": 155,
+        "title": "Fruits into Basket",
+        "link": "https://leetcode.com/problems/fruit-into-baskets/",
+        "youtubeLink": "https://www.youtube.com/watch?v=yYtaV0G3mWQ"
+      },
+      {
+        "id": 156,
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+        "youtubeLink": "https://www.youtube.com/watch?v=kEfPSzgL-Ss"
+      },
+      {
+        "id": 157,
+        "title": "Minimum Number of Flips to Make The Binary String Alternating",
+        "link": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
+        "youtubeLink": "https://www.youtube.com/watch?v=MOeuK6gaC2A"
+      },
+      {
+        "id": 158,
+        "title": "Minimum Size Subarray Sum",
+        "link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=aYqYMIqZx5s"
+      },
+      {
+        "id": 159,
+        "title": "Find K Closest Elements",
+        "link": "https://leetcode.com/problems/find-k-closest-elements/",
+        "youtubeLink": "https://www.youtube.com/watch?v=o-YDQzHoaKM"
+      },
+      {
+        "id": 160,
+        "title": "Minimum Operations to Reduce X to Zero",
+        "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+        "youtubeLink": "https://www.youtube.com/watch?v=xumn16n7njs"
+      },
+      {
+        "id": 161,
+        "title": "Min Stack",
+        "link": "https://leetcode.com/problems/min-stack/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qkLl7nAwDPo"
+      },
+      {
+        "id": 162,
+        "title": "Evaluate Reverse Polish Notation",
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+        "youtubeLink": "https://www.youtube.com/watch?v=iu0082c4HDE"
+      },
+      {
+        "id": 163,
+        "title": "Removing Stars From a String",
+        "link": "https://leetcode.com/problems/removing-stars-from-a-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pRyFZIaKegA"
+      },
+      {
+        "id": 164,
+        "title": "Validate Stack Sequences",
+        "link": "https://leetcode.com/problems/validate-stack-sequences/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mzua0r94kb8"
+      },
+      {
+        "id": 165,
+        "title": "Generate Parentheses",
+        "link": "https://leetcode.com/problems/generate-parentheses/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s9fokUqJ76A"
+      },
+      {
+        "id": 166,
+        "title": "Asteroid Collision",
+        "link": "https://leetcode.com/problems/asteroid-collision/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LN7KjRszjk4"
+      },
+      {
+        "id": 167,
+        "title": "Daily Temperatures",
+        "link": "https://leetcode.com/problems/daily-temperatures/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cTBiBSnjO3c"
+      },
+      {
+        "id": 168,
+        "title": "Online Stock Span",
+        "link": "https://leetcode.com/problems/online-stock-span/",
+        "youtubeLink": "https://www.youtube.com/watch?v=slYh0ZNEqSw"
+      },
+      {
+        "id": 169,
+        "title": "Car Fleet",
+        "link": "https://leetcode.com/problems/car-fleet/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Pr6T-3yB9RM"
+      },
+      {
+        "id": 170,
+        "title": "Simplify Path",
+        "link": "https://leetcode.com/problems/simplify-path/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qYlHrAKJfyA"
+      },
+      {
+        "id": 171,
+        "title": "Decode String",
+        "link": "https://leetcode.com/problems/decode-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qB0zZpBJlh8"
+      },
+      {
+        "id": 172,
+        "title": "Remove K Digits",
+        "link": "https://leetcode.com/problems/remove-k-digits/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cFabMOnJaq0"
+      },
+      {
+        "id": 173,
+        "title": "Remove All Adjacent Duplicates In String II",
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=w6LcypDgC4w"
+      },
+      {
+        "id": 174,
+        "title": "132 Pattern",
+        "link": "https://leetcode.com/problems/132-pattern/",
+        "youtubeLink": "https://www.youtube.com/watch?v=q5ANAl8Z458"
+      },
+      {
+        "id": 175,
+        "title": "Single Element in a Sorted Array",
+        "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=HGtqdzyUJ3k"
+      },
+      {
+        "id": 176,
+        "title": "Capacity to Ship Packages",
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ER_oLmdc-nw"
+      },
+      {
+        "id": 177,
+        "title": "Find Peak Element",
+        "link": "https://leetcode.com/problems/find-peak-element/",
+        "youtubeLink": "https://www.youtube.com/watch?v=kMzJy9es7Hc"
+      },
+      {
+        "id": 178,
+        "title": "Successful Pairs of Spells and Potions",
+        "link": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OKnm5oyAhWg"
+      },
+      {
+        "id": 179,
+        "title": "Search a 2D Matrix",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Ber2pi2C0j0"
+      },
+      {
+        "id": 180,
+        "title": "Koko Eating Bananas",
+        "link": "https://leetcode.com/problems/koko-eating-bananas/",
+        "youtubeLink": "https://www.youtube.com/watch?v=U2SozAs9RzA"
+      },
+      {
+        "id": 181,
+        "title": "Minimize the Maximum Difference of Pairs",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/",
+        "youtubeLink": "https://www.youtube.com/watch?v=lf1Pxg7IrzQ"
+      },
+      {
+        "id": 182,
+        "title": "Find Minimum In Rotated Sorted Array",
+        "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nIVW4P8b1VA"
+      },
+      {
+        "id": 183,
+        "title": "Search In Rotated Sorted Array",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=U8XENwh8Oy8"
+      },
+      {
+        "id": 184,
+        "title": "Search In Rotated Sorted Array II",
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=oUnF7o88_Xc"
+      },
+      {
+        "id": 185,
+        "title": "Time Based Key Value Store",
+        "link": "https://leetcode.com/problems/time-based-key-value-store/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fu2cD_6E8Hw"
+      },
+      {
+        "id": 186,
+        "title": "Find First And Last Position of Element In Sorted Array",
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4sQL7R5ySUU"
+      },
+      {
+        "id": 187,
+        "title": "Maximum Number of Removable Characters",
+        "link": "https://leetcode.com/problems/maximum-number-of-removable-characters/",
+        "youtubeLink": "https://www.youtube.com/watch?v=NMP3nRPyX5g"
+      },
+      {
+        "id": 188,
+        "title": "Populating Next Right Pointers In Each Node",
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "youtubeLink": "https://www.youtube.com/watch?v=U4hFQCa1Cq0"
+      },
+      {
+        "id": 189,
+        "title": "Search Suggestions System",
+        "link": "https://leetcode.com/problems/search-suggestions-system/",
+        "youtubeLink": "https://www.youtube.com/watch?v=D4T2N0yAr20"
+      },
+      {
+        "id": 190,
+        "title": "Reorder List",
+        "link": "https://leetcode.com/problems/reorder-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=S5bfdUTrKLM"
+      },
+      {
+        "id": 191,
+        "title": "Maximum Twin Sum Of A Linked List",
+        "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=doj95MelfSA"
+      },
+      {
+        "id": 192,
+        "title": "Remove Nth Node From End of List",
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XVuQxVej6y8"
+      },
+      {
+        "id": 193,
+        "title": "Swapping Nodes in a Linked List",
+        "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4LsrgMyQIjQ"
+      },
+      {
+        "id": 194,
+        "title": "Copy List With Random Pointer",
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5Y2EiZST97Y"
+      },
+      {
+        "id": 195,
+        "title": "Design Linked List",
+        "link": "https://leetcode.com/problems/design-linked-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Wf4QhpdVFQo"
+      },
+      {
+        "id": 196,
+        "title": "Design Browser History",
+        "link": "https://leetcode.com/problems/design-browser-history/",
+        "youtubeLink": "https://www.youtube.com/watch?v=i1G-kKnBu8k"
+      },
+      {
+        "id": 197,
+        "title": "Add Two Numbers",
+        "link": "https://leetcode.com/problems/add-two-numbers/",
+        "youtubeLink": "https://www.youtube.com/watch?v=wgFPrzTjm7s"
+      },
+      {
+        "id": 198,
+        "title": "Find The Duplicate Number",
+        "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=wjYnzkAhcNk"
+      },
+      {
+        "id": 199,
+        "title": "Swap Nodes In Pairs",
+        "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "youtubeLink": "https://www.youtube.com/watch?v=o811TZLAWOo"
+      },
+      {
+        "id": 200,
+        "title": "Sort List",
+        "link": "https://leetcode.com/problems/sort-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TGveA1oFhrc"
+      },
+      {
+        "id": 201,
+        "title": "Partition List",
+        "link": "https://leetcode.com/problems/partition-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KT1iUciJr4g"
+      },
+      {
+        "id": 202,
+        "title": "Rotate List",
+        "link": "https://leetcode.com/problems/rotate-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UcGtPs2LE_c"
+      },
+      {
+        "id": 203,
+        "title": "Reverse Linked List II",
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RF_M9tX4Eag"
+      },
+      {
+        "id": 204,
+        "title": "Design Circular Queue",
+        "link": "https://leetcode.com/problems/design-circular-queue/",
+        "youtubeLink": "https://www.youtube.com/watch?v=aBbsfn863oA"
+      },
+      {
+        "id": 205,
+        "title": "Insertion Sort List",
+        "link": "https://leetcode.com/problems/insertion-sort-list/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Kk6mXAzqX3Y"
+      },
+      {
+        "id": 206,
+        "title": "Split Linked List in Parts",
+        "link": "https://leetcode.com/problems/split-linked-list-in-parts/",
+        "youtubeLink": "https://www.youtube.com/watch?v=-OTlqdrxrVI"
+      },
+      {
+        "id": 207,
+        "title": "LRU Cache",
+        "link": "https://leetcode.com/problems/lru-cache/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7ABFKPK2hD4"
+      },
+      {
+        "id": 208,
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gs2LMfuOR9k"
+      },
+      {
+        "id": 209,
+        "title": "Insert into a Binary Search Tree",
+        "link": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Cpg8f79luEA"
+      },
+      {
+        "id": 210,
+        "title": "Delete Node in a BST",
+        "link": "https://leetcode.com/problems/delete-node-in-a-bst/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LFzAoJJt92M"
+      },
+      {
+        "id": 211,
+        "title": "Binary Tree Level Order Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6ZnyEApgFYg"
+      },
+      {
+        "id": 212,
+        "title": "Binary Tree Right Side View",
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "youtubeLink": "https://www.youtube.com/watch?v=d4zLyf32e3I"
+      },
+      {
+        "id": 213,
+        "title": "Minimum Time to Collect All Apples in a Tree",
+        "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Xdt5Z583auM"
+      },
+      {
+        "id": 214,
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=igbboQbiwqw"
+      },
+      {
+        "id": 215,
+        "title": "Construct Quad Tree",
+        "link": "https://leetcode.com/problems/construct-quad-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=UQ-1sBMV0v4"
+      },
+      {
+        "id": 216,
+        "title": "Find Duplicate Subtrees",
+        "link": "https://leetcode.com/problems/find-duplicate-subtrees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=kn0Z5_qPPzY"
+      },
+      {
+        "id": 217,
+        "title": "Check Completeness of a Binary Tree",
+        "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=olbiZ-EOSig"
+      },
+      {
+        "id": 218,
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=vm63HuIU7kw"
+      },
+      {
+        "id": 219,
+        "title": "Maximum Width of Binary Tree ",
+        "link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FPzLE2L7uHs"
+      },
+      {
+        "id": 220,
+        "title": "Time Needed to Inform All Employees ",
+        "link": "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zdBYi0p4L5Q"
+      },
+      {
+        "id": 221,
+        "title": "Count Good Nodes In Binary Tree",
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7cp5imvDzl4"
+      },
+      {
+        "id": 222,
+        "title": "Validate Binary Search Tree",
+        "link": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s6ATEkipzow"
+      },
+      {
+        "id": 223,
+        "title": "Kth Smallest Element In a Bst",
+        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5LUXSvjmGCw"
+      },
+      {
+        "id": 224,
+        "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ihj4IQGZ2zc"
+      },
+      {
+        "id": 225,
+        "title": "Unique Binary Search Trees",
+        "link": "https://leetcode.com/problems/unique-binary-search-trees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Ox0TenN3Zpg"
+      },
+      {
+        "id": 226,
+        "title": "Unique Binary Search Trees II",
+        "link": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=m907FlQa2Yc"
+      },
+      {
+        "id": 227,
+        "title": "Sum Root to Leaf Numbers",
+        "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Jk16lZGFWxE"
+      },
+      {
+        "id": 228,
+        "title": "House Robber III",
+        "link": "https://leetcode.com/problems/house-robber-iii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nHR8ytpzz7c"
+      },
+      {
+        "id": 229,
+        "title": "Flip Equivalent Binary Trees",
+        "link": "https://leetcode.com/problems/flip-equivalent-binary-trees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=izRDc1il9Pk"
+      },
+      {
+        "id": 230,
+        "title": "Operations On Tree",
+        "link": "https://leetcode.com/problems/operations-on-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qK4PtjrVD0U"
+      },
+      {
+        "id": 231,
+        "title": "All Possible Full Binary Trees",
+        "link": "https://leetcode.com/problems/all-possible-full-binary-trees/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nZtrZPTTCAo"
+      },
+      {
+        "id": 232,
+        "title": "Find Bottom Left Tree Value",
+        "link": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+        "youtubeLink": "https://www.youtube.com/watch?v=u_by_cTsNJA"
+      },
+      {
+        "id": 233,
+        "title": "Trim a Binary Search Tree",
+        "link": "https://leetcode.com/problems/trim-a-binary-search-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=jwt5mTjEXGc"
+      },
+      {
+        "id": 234,
+        "title": "Binary Search Tree Iterator",
+        "link": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RXy5RzGF5wo"
+      },
+      {
+        "id": 235,
+        "title": "Convert Bst to Greater Tree",
+        "link": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7vVEJwVvAlI"
+      },
+      {
+        "id": 236,
+        "title": "Implement Trie Prefix Tree",
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=oobqoCJlHA0"
+      },
+      {
+        "id": 237,
+        "title": "Design Add And Search Words Data Structure",
+        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+        "youtubeLink": "https://www.youtube.com/watch?v=BTf05gs_8iU"
+      },
+      {
+        "id": 238,
+        "title": "Extra Characters in a String",
+        "link": "https://leetcode.com/problems/extra-characters-in-a-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ONstwO1cD7c"
+      },
+      {
+        "id": 239,
+        "title": "K Closest Points to Origin",
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin/",
+        "youtubeLink": "https://www.youtube.com/watch?v=rI2EBUEMfTk"
+      },
+      {
+        "id": 240,
+        "title": "Kth Largest Element In An Array",
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XEmy13g1Qxc"
+      },
+      {
+        "id": 241,
+        "title": "Task Scheduler",
+        "link": "https://leetcode.com/problems/task-scheduler/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s8p8ukTyA2I"
+      },
+      {
+        "id": 242,
+        "title": "Design Twitter",
+        "link": "https://leetcode.com/problems/design-twitter/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pNichitDD2E"
+      },
+      {
+        "id": 243,
+        "title": "Maximum Subsequence Score",
+        "link": "https://leetcode.com/problems/maximum-subsequence-score/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ax1DKi5lJwk"
+      },
+      {
+        "id": 244,
+        "title": "Single Threaded Cpu",
+        "link": "https://leetcode.com/problems/single-threaded-cpu/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RR1n-d4oYqE"
+      },
+      {
+        "id": 245,
+        "title": "Seat Reservation Manager",
+        "link": "https://leetcode.com/problems/seat-reservation-manager/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ahobllKXEEY"
+      },
+      {
+        "id": 246,
+        "title": "Process Tasks Using Servers",
+        "link": "https://leetcode.com/problems/process-tasks-using-servers/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XKA22PecuMQ"
+      },
+      {
+        "id": 247,
+        "title": "Find The Kth Largest Integer In The Array",
+        "link": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=lRCaNiqO3xI"
+      },
+      {
+        "id": 248,
+        "title": "Reorganize String",
+        "link": "https://leetcode.com/problems/reorganize-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=2g_b1aYTHeg"
+      },
+      {
+        "id": 249,
+        "title": "Longest Happy String",
+        "link": "https://leetcode.com/problems/longest-happy-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=8u-H6O_XQKE"
+      },
+      {
+        "id": 250,
+        "title": "Car Pooling",
+        "link": "https://leetcode.com/problems/car-pooling/",
+        "youtubeLink": "https://www.youtube.com/watch?v=08sn_w4LWEE"
+      },
+      {
+        "id": 251,
+        "title": "Subsets",
+        "link": "https://leetcode.com/problems/subsets/",
+        "youtubeLink": "https://www.youtube.com/watch?v=REOH22Xwdkk"
+      },
+      {
+        "id": 252,
+        "title": "Combination Sum",
+        "link": "https://leetcode.com/problems/combination-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=GBKI9VSKdGg"
+      },
+      {
+        "id": 253,
+        "title": "Combinations",
+        "link": "https://leetcode.com/problems/combinations/",
+        "youtubeLink": "https://www.youtube.com/watch?v=q0s6m7AiM7o"
+      },
+      {
+        "id": 254,
+        "title": "Permutations",
+        "link": "https://leetcode.com/problems/permutations/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s7AvT7cGdSo"
+      },
+      {
+        "id": 255,
+        "title": "Subsets II",
+        "link": "https://leetcode.com/problems/subsets-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Vn2v6ajA7U0"
+      },
+      {
+        "id": 256,
+        "title": "Combination Sum II",
+        "link": "https://leetcode.com/problems/combination-sum-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=rSA3t6BDDwg"
+      },
+      {
+        "id": 257,
+        "title": "Permutations II",
+        "link": "https://leetcode.com/problems/permutations-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=qhBVWf0YafA"
+      },
+      {
+        "id": 258,
+        "title": "Word Search",
+        "link": "https://leetcode.com/problems/word-search/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pfiQ_PS1g8E"
+      },
+      {
+        "id": 259,
+        "title": "Palindrome Partitioning",
+        "link": "https://leetcode.com/problems/palindrome-partitioning/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3jvWodd7ht0"
+      },
+      {
+        "id": 260,
+        "title": "Restore IP Addresses",
+        "link": "https://leetcode.com/problems/restore-ip-addresses/",
+        "youtubeLink": "https://www.youtube.com/watch?v=61tN4YEdiTM"
+      },
+      {
+        "id": 261,
+        "title": "Letter Combinations of a Phone Number",
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "youtubeLink": "https://www.youtube.com/watch?v=0snEunUacZY"
+      },
+      {
+        "id": 262,
+        "title": "Matchsticks to Square",
+        "link": "https://leetcode.com/problems/matchsticks-to-square/",
+        "youtubeLink": "https://www.youtube.com/watch?v=hUe0cUKV-YY"
+      },
+      {
+        "id": 263,
+        "title": "Splitting a String Into Descending Consecutive Values",
+        "link": "https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/",
+        "youtubeLink": "https://www.youtube.com/watch?v=eDtMmysldaw"
+      },
+      {
+        "id": 264,
+        "title": "Find Unique Binary String",
+        "link": "https://leetcode.com/problems/find-unique-binary-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=aHqn4Dynd1k"
+      },
+      {
+        "id": 265,
+        "title": "Maximum Length of a Concatenated String With Unique Characters",
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/",
+        "youtubeLink": "https://www.youtube.com/watch?v=d4SPuvkaeoo"
+      },
+      {
+        "id": 266,
+        "title": "Partition to K Equal Sum Subsets",
+        "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mBk4I0X46oI"
+      },
+      {
+        "id": 267,
+        "title": "Number of Islands",
+        "link": "https://leetcode.com/problems/number-of-islands/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pV2kpPD66nE"
+      },
+      {
+        "id": 268,
+        "title": "Clone Graph",
+        "link": "https://leetcode.com/problems/clone-graph/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mQeF6bN8hMk"
+      },
+      {
+        "id": 269,
+        "title": "Max Area of Island",
+        "link": "https://leetcode.com/problems/max-area-of-island/",
+        "youtubeLink": "https://www.youtube.com/watch?v=iJGr1OtmH0c"
+      },
+      {
+        "id": 270,
+        "title": "Count Sub Islands",
+        "link": "https://leetcode.com/problems/count-sub-islands/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mLpW3qfbNJ8"
+      },
+      {
+        "id": 271,
+        "title": "Pacific Atlantic Water Flow",
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "youtubeLink": "https://www.youtube.com/watch?v=s-VkcjHqkGI"
+      },
+      {
+        "id": 272,
+        "title": "Surrounded Regions",
+        "link": "https://leetcode.com/problems/surrounded-regions/",
+        "youtubeLink": "https://www.youtube.com/watch?v=9z2BunfoZ5Y"
+      },
+      {
+        "id": 273,
+        "title": "Reorder Routes to Make All Paths Lead to The City Zero",
+        "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+        "youtubeLink": "https://www.youtube.com/watch?v=m17yOR5_PpI"
+      },
+      {
+        "id": 274,
+        "title": "Rotting Oranges",
+        "link": "https://leetcode.com/problems/rotting-oranges/",
+        "youtubeLink": "https://www.youtube.com/watch?v=y704fEOx0s0"
+      },
+      {
+        "id": 275,
+        "title": "Walls And Gates",
+        "link": "https://www.lintcode.com/title/663/",
+        "youtubeLink": "https://www.youtube.com/watch?v=e69C6xhiSQE"
+      },
+      {
+        "id": 276,
+        "title": "Snakes And Ladders",
+        "link": "https://leetcode.com/problems/snakes-and-ladders/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6lH4nO3JfLk"
+      },
+      {
+        "id": 277,
+        "title": "Open The Lock",
+        "link": "https://leetcode.com/problems/open-the-lock/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Pzg3bCDY87w"
+      },
+      {
+        "id": 278,
+        "title": "Find Eventual Safe States",
+        "link": "https://leetcode.com/problems/find-eventual-safe-states/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Re_v0j0CRsg"
+      },
+      {
+        "id": 279,
+        "title": "Course Schedule",
+        "link": "https://leetcode.com/problems/course-schedule/",
+        "youtubeLink": "https://www.youtube.com/watch?v=EgI5nU9etnU"
+      },
+      {
+        "id": 280,
+        "title": "Course Schedule II",
+        "link": "https://leetcode.com/problems/course-schedule-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Akt3glAwyfY"
+      },
+      {
+        "id": 281,
+        "title": "Course Schedule IV",
+        "link": "https://leetcode.com/problems/course-schedule-iv/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cEW05ofxhn0"
+      },
+      {
+        "id": 282,
+        "title": "Check if Move Is Legal",
+        "link": "https://leetcode.com/problems/check-if-move-is-legal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=KxK33AcQZpQ"
+      },
+      {
+        "id": 283,
+        "title": "Shortest Bridge",
+        "link": "https://leetcode.com/problems/shortest-bridge/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gkINMhbbIbU"
+      },
+      {
+        "id": 284,
+        "title": "Shortest Path in Binary Matrix",
+        "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=YnxUdAO7TAo"
+      },
+      {
+        "id": 285,
+        "title": "Redundant Connection",
+        "link": "https://leetcode.com/problems/redundant-connection/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FXWRE67PLL0"
+      },
+      {
+        "id": 286,
+        "title": "Number of Connected Components In An Undirected Graph",
+        "link": "https://www.lintcode.com/title/3651/",
+        "youtubeLink": "https://www.youtube.com/watch?v=8f1XPm4WOUc"
+      },
+      {
+        "id": 287,
+        "title": "Graph Valid Tree",
+        "link": "https://www.lintcode.com/title/178/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bXsUuownnoQ"
+      },
+      {
+        "id": 288,
+        "title": "Accounts Merge",
+        "link": "https://leetcode.com/problems/accounts-merge/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6st4IxEF-90"
+      },
+      {
+        "id": 289,
+        "title": "Find Closest Node to Given Two Nodes",
+        "link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=AZA8orksO4w"
+      },
+      {
+        "id": 290,
+        "title": "As Far from Land as Possible",
+        "link": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fjxb1hQfrZk"
+      },
+      {
+        "id": 291,
+        "title": "Shortest Path with Alternating Colors",
+        "link": "https://leetcode.com/problems/shortest-path-with-alternating-colors/",
+        "youtubeLink": "https://www.youtube.com/watch?v=69rcy6lb-HQ"
+      },
+      {
+        "id": 292,
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/",
+        "youtubeLink": "https://www.youtube.com/watch?v=I3lnDUIzIG4"
+      },
+      {
+        "id": 293,
+        "title": "Minimum Score of a Path Between Two Cities",
+        "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+        "youtubeLink": "https://www.youtube.com/watch?v=K7-mXA0irhY"
+      },
+      {
+        "id": 294,
+        "title": "Number of Closed Islands",
+        "link": "https://leetcode.com/problems/number-of-closed-islands/",
+        "youtubeLink": "https://www.youtube.com/watch?v=X8k48xek8g8"
+      },
+      {
+        "id": 295,
+        "title": "Number of Enclaves",
+        "link": "https://leetcode.com/problems/number-of-enclaves/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gf0zsh1FIgE"
+      },
+      {
+        "id": 296,
+        "title": "Minimum Number of Vertices to Reach all Nodes",
+        "link": "https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TLzcum7vrTc"
+      },
+      {
+        "id": 297,
+        "title": "Is Graph Bipartite?",
+        "link": "https://leetcode.com/problems/is-graph-bipartite/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mev55LTubBY"
+      },
+      {
+        "id": 298,
+        "title": "Evaluate Division",
+        "link": "https://leetcode.com/problems/evaluate-division/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Uei1fwDoyKk"
+      },
+      {
+        "id": 299,
+        "title": "Detonate the Maximum Bombs",
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs/",
+        "youtubeLink": "https://www.youtube.com/watch?v=8NPbAvVXKR4"
+      },
+      {
+        "id": 300,
+        "title": "Path with Minimum Effort",
+        "link": "https://leetcode.com/problems/path-with-minimum-effort/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XQlxCCx2vI4"
+      },
+      {
+        "id": 301,
+        "title": "Min Cost to Connect All Points",
+        "link": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+        "youtubeLink": "https://www.youtube.com/watch?v=f7JOBJIC-NA"
+      },
+      {
+        "id": 302,
+        "title": "Network Delay Time",
+        "link": "https://leetcode.com/problems/network-delay-time/",
+        "youtubeLink": "https://www.youtube.com/watch?v=EaphyqKU4PQ"
+      },
+      {
+        "id": 303,
+        "title": "Path with Maximum Probability",
+        "link": "https://leetcode.com/problems/path-with-maximum-probability/",
+        "youtubeLink": "https://www.youtube.com/watch?v=kPsDTGcrzGM"
+      },
+      {
+        "id": 304,
+        "title": "Cheapest Flights Within K Stops",
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5eIK3zUdYmE"
+      },
+      {
+        "id": 305,
+        "title": "House Robber",
+        "link": "https://leetcode.com/problems/house-robber/",
+        "youtubeLink": "https://www.youtube.com/watch?v=73r3KWiEvyk"
+      },
+      {
+        "id": 306,
+        "title": "House Robber II",
+        "link": "https://leetcode.com/problems/house-robber-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=rWAJCfYYOvM"
+      },
+      {
+        "id": 307,
+        "title": "Longest Palindromic Substring",
+        "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XYQecbcd6_c"
+      },
+      {
+        "id": 308,
+        "title": "Palindromic Substrings",
+        "link": "https://leetcode.com/problems/palindromic-substrings/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4RACzI5-du8"
+      },
+      {
+        "id": 309,
+        "title": "Decode Ways",
+        "link": "https://leetcode.com/problems/decode-ways/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6aEyTjOwlJU"
+      },
+      {
+        "id": 310,
+        "title": "Coin Change",
+        "link": "https://leetcode.com/problems/coin-change/",
+        "youtubeLink": "https://www.youtube.com/watch?v=H9bfqozjoqs"
+      },
+      {
+        "id": 311,
+        "title": "Maximum Product Subarray",
+        "link": "https://leetcode.com/problems/maximum-product-subarray/",
+        "youtubeLink": "https://www.youtube.com/watch?v=lXVy6YWFcRM"
+      },
+      {
+        "id": 312,
+        "title": "Word Break",
+        "link": "https://leetcode.com/problems/word-break/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Sx9NNgInc3A"
+      },
+      {
+        "id": 313,
+        "title": "Longest Increasing Subsequence",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=cjWnW0hdF1Y"
+      },
+      {
+        "id": 314,
+        "title": "Partition Equal Subset Sum",
+        "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=IsvocB5BJhw"
+      },
+      {
+        "id": 315,
+        "title": "Triangle",
+        "link": "https://leetcode.com/problems/triangle/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OM1MTokvxs4"
+      },
+      {
+        "id": 316,
+        "title": "Delete And Earn",
+        "link": "https://leetcode.com/problems/delete-and-earn/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7FCemBxvGw0"
+      },
+      {
+        "id": 317,
+        "title": "Paint House",
+        "link": "https://leetcode.com/problems/paint-house/",
+        "youtubeLink": "https://www.youtube.com/watch?v=-w67-4tnH5U"
+      },
+      {
+        "id": 318,
+        "title": "Combination Sum IV",
+        "link": "https://leetcode.com/problems/combination-sum-iv/",
+        "youtubeLink": "https://www.youtube.com/watch?v=dw2nMCxG0ik"
+      },
+      {
+        "id": 319,
+        "title": "Perfect Squares",
+        "link": "https://leetcode.com/problems/perfect-squares/",
+        "youtubeLink": "https://www.youtube.com/watch?v=HLZLwjzIVGo"
+      },
+      {
+        "id": 320,
+        "title": "Check if There is a Valid Partition For The Array",
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OxXPiwWFdTI"
+      },
+      {
+        "id": 321,
+        "title": "Maximum Subarray Min Product",
+        "link": "https://leetcode.com/problems/maximum-subarray-min-product/",
+        "youtubeLink": "https://www.youtube.com/watch?v=YLesLbNkyjA"
+      },
+      {
+        "id": 322,
+        "title": "Minimum Cost For Tickets",
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4pY1bsBpIY4"
+      },
+      {
+        "id": 323,
+        "title": "Integer Break",
+        "link": "https://leetcode.com/problems/integer-break/",
+        "youtubeLink": "https://www.youtube.com/watch?v=in6QbUPMJ3I"
+      },
+      {
+        "id": 324,
+        "title": "Number of Longest Increasing Subsequence",
+        "link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Tuc-rjJbsXU"
+      },
+      {
+        "id": 325,
+        "title": "Uncrossed Lines",
+        "link": "https://leetcode.com/problems/uncrossed-lines/",
+        "youtubeLink": "https://www.youtube.com/watch?v=mnJF4vJ7GyE"
+      },
+      {
+        "id": 326,
+        "title": "Solving Questions With Brainpower",
+        "link": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+        "youtubeLink": "https://www.youtube.com/watch?v=D7TD_ArkfkA"
+      },
+      {
+        "id": 327,
+        "title": "Count Ways to Build Good Strings",
+        "link": "https://leetcode.com/problems/count-ways-to-build-good-strings/",
+        "youtubeLink": "https://www.youtube.com/watch?v=JKpVHG2mhbk"
+      },
+      {
+        "id": 328,
+        "title": "New 21 Game",
+        "link": "https://leetcode.com/problems/new-21-game/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zKi4LzjK27k"
+      },
+      {
+        "id": 329,
+        "title": "Best Team with no Conflicts",
+        "link": "https://leetcode.com/problems/best-team-with-no-conflicts/",
+        "youtubeLink": "https://www.youtube.com/watch?v=7kURH3btcV4"
+      },
+      {
+        "id": 330,
+        "title": "Unique Paths",
+        "link": "https://leetcode.com/problems/unique-paths/",
+        "youtubeLink": "https://www.youtube.com/watch?v=IlEsdxuD4lY"
+      },
+      {
+        "id": 331,
+        "title": "Unique Paths II",
+        "link": "https://leetcode.com/problems/unique-paths-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=d3UOz7zdE4I"
+      },
+      {
+        "id": 332,
+        "title": "Longest Common Subsequence",
+        "link": "https://leetcode.com/problems/longest-common-subsequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Ua0GhsJSlWM"
+      },
+      {
+        "id": 333,
+        "title": "Longest Palindromic Subsequence",
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bUr8cNWI09Q"
+      },
+      {
+        "id": 334,
+        "title": "Last Stone Weight II",
+        "link": "https://leetcode.com/problems/last-stone-weight-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gdXkkmzvR3c"
+      },
+      {
+        "id": 335,
+        "title": "Best Time to Buy And Sell Stock With Cooldown",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+        "youtubeLink": "https://www.youtube.com/watch?v=I7j0F7AHpb8"
+      },
+      {
+        "id": 336,
+        "title": "Coin Change II",
+        "link": "https://leetcode.com/problems/coin-change-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Mjy4hd2xgrs"
+      },
+      {
+        "id": 337,
+        "title": "Target Sum",
+        "link": "https://leetcode.com/problems/target-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=g0npyaQtAQM"
+      },
+      {
+        "id": 338,
+        "title": "Interleaving String",
+        "link": "https://leetcode.com/problems/interleaving-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=3Rw3p9LrgvE"
+      },
+      {
+        "id": 339,
+        "title": "Stone Game",
+        "link": "https://leetcode.com/problems/stone-game/",
+        "youtubeLink": "https://www.youtube.com/watch?v=uhgdXOlGYqE"
+      },
+      {
+        "id": 340,
+        "title": "Minimum Path Sum",
+        "link": "https://leetcode.com/problems/minimum-path-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pGMsrvt0fpk"
+      },
+      {
+        "id": 341,
+        "title": "Maximal Square",
+        "link": "https://leetcode.com/problems/maximal-square/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6X7Ha2PrDmM"
+      },
+      {
+        "id": 342,
+        "title": "Ones and Zeroes",
+        "link": "https://leetcode.com/problems/ones-and-zeroes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=miZ3qV04b1g"
+      },
+      {
+        "id": 343,
+        "title": "Maximum Alternating Subsequence Sum",
+        "link": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4v42XOuU1XA"
+      },
+      {
+        "id": 344,
+        "title": "Edit Distance",
+        "link": "https://leetcode.com/problems/edit-distance/",
+        "youtubeLink": "https://www.youtube.com/watch?v=XYi2-LPrwm4"
+      },
+      {
+        "id": 345,
+        "title": "Stone Game II",
+        "link": "https://leetcode.com/problems/stone-game-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=I-z-u0zfQtg"
+      },
+      {
+        "id": 346,
+        "title": "Flip String to Monotone Increasing",
+        "link": "https://leetcode.com/problems/flip-string-to-monotone-increasing/",
+        "youtubeLink": "https://www.youtube.com/watch?v=tMq9z5k3umQ"
+      },
+      {
+        "id": 347,
+        "title": "Maximum Subarray",
+        "link": "https://leetcode.com/problems/maximum-subarray/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5WZl3MMT0Eg"
+      },
+      {
+        "id": 348,
+        "title": "Maximum Sum Circular Subarray",
+        "link": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fxT9KjakYPM"
+      },
+      {
+        "id": 349,
+        "title": "Longest Turbulent Array",
+        "link": "https://leetcode.com/problems/longest-turbulent-subarray/",
+        "youtubeLink": "https://www.youtube.com/watch?v=V_iHUhR8Dek"
+      },
+      {
+        "id": 350,
+        "title": "Jump Game",
+        "link": "https://leetcode.com/problems/jump-game/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Yan0cv2cLy8"
+      },
+      {
+        "id": 351,
+        "title": "Jump Game II",
+        "link": "https://leetcode.com/problems/jump-game-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=dJ7sWiOoK7g"
+      },
+      {
+        "id": 352,
+        "title": "Jump Game VII",
+        "link": "https://leetcode.com/problems/jump-game-vii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=v1HpZUnQ4Yo"
+      },
+      {
+        "id": 353,
+        "title": "Gas Station",
+        "link": "https://leetcode.com/problems/gas-station/",
+        "youtubeLink": "https://www.youtube.com/watch?v=lJwbPZGo05A"
+      },
+      {
+        "id": 354,
+        "title": "Hand of Straights",
+        "link": "https://leetcode.com/problems/hand-of-straights/",
+        "youtubeLink": "https://www.youtube.com/watch?v=amnrMCVd2YI"
+      },
+      {
+        "id": 355,
+        "title": "Minimize Maximum of Array",
+        "link": "https://leetcode.com/problems/minimize-maximum-of-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=AeHMvcKuR0Y"
+      },
+      {
+        "id": 356,
+        "title": "Dota2 Senate",
+        "link": "https://leetcode.com/problems/dota2-senate/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zZA5KskfMuQ"
+      },
+      {
+        "id": 357,
+        "title": "Maximum Points You Can Obtain From Cards",
+        "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TsA4vbtfCvo"
+      },
+      {
+        "id": 358,
+        "title": "Merge Triplets to Form Target Triplet",
+        "link": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
+        "youtubeLink": "https://www.youtube.com/watch?v=kShkQLQZ9K4"
+      },
+      {
+        "id": 359,
+        "title": "Partition Labels",
+        "link": "https://leetcode.com/problems/partition-labels/",
+        "youtubeLink": "https://www.youtube.com/watch?v=B7m8UmZE-vw"
+      },
+      {
+        "id": 360,
+        "title": "Valid Parenthesis String",
+        "link": "https://leetcode.com/problems/valid-parenthesis-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=QhPdNS143Qg"
+      },
+      {
+        "id": 361,
+        "title": "Eliminate Maximum Number of Monsters",
+        "link": "https://leetcode.com/problems/eliminate-maximum-number-of-monsters/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6QQRayzOTD4"
+      },
+      {
+        "id": 362,
+        "title": "Two City Scheduling",
+        "link": "https://leetcode.com/problems/two-city-scheduling/",
+        "youtubeLink": "https://www.youtube.com/watch?v=d-B_gk_gJtQ"
+      },
+      {
+        "id": 363,
+        "title": "Maximum Length of Pair Chain",
+        "link": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LcNNorqMVTw"
+      },
+      {
+        "id": 364,
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+        "youtubeLink": "https://www.youtube.com/watch?v=h8AZEN49gTc"
+      },
+      {
+        "id": 365,
+        "title": "Insert Interval",
+        "link": "https://leetcode.com/problems/insert-interval/",
+        "youtubeLink": "https://www.youtube.com/watch?v=A8NUOmlwOlM"
+      },
+      {
+        "id": 366,
+        "title": "Merge Intervals",
+        "link": "https://leetcode.com/problems/merge-intervals/",
+        "youtubeLink": "https://www.youtube.com/watch?v=44H3cEC2fFM"
+      },
+      {
+        "id": 367,
+        "title": "Non Overlapping Intervals",
+        "link": "https://leetcode.com/problems/non-overlapping-intervals/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nONCGxWoUfM"
+      },
+      {
+        "id": 368,
+        "title": "Meeting Rooms II",
+        "link": "https://www.lintcode.com/title/919/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FdzJmTCVyJU"
+      },
+      {
+        "id": 369,
+        "title": "Remove Covered Intervals",
+        "link": "https://leetcode.com/problems/remove-covered-intervals/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nhAsMabiVkM"
+      },
+      {
+        "id": 370,
+        "title": "Rotate Image",
+        "link": "https://leetcode.com/problems/rotate-image/",
+        "youtubeLink": "https://www.youtube.com/watch?v=fMSJSS7eO1w"
+      },
+      {
+        "id": 371,
+        "title": "Spiral Matrix",
+        "link": "https://leetcode.com/problems/spiral-matrix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=BJnMZNwUk1M"
+      },
+      {
+        "id": 372,
+        "title": "Spiral Matrix II ",
+        "link": "https://leetcode.com/problems/spiral-matrix-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RvLrWFBJ9fM"
+      },
+      {
+        "id": 373,
+        "title": "Set Matrix Zeroes",
+        "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=T41rL0L3Pnw"
+      },
+      {
+        "id": 374,
+        "title": "Integer to Roman",
+        "link": "https://leetcode.com/problems/integer-to-roman/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ohBNdSJyLh8"
+      },
+      {
+        "id": 375,
+        "title": "Pow(x, n)",
+        "link": "https://leetcode.com/problems/powx-n/",
+        "youtubeLink": "https://www.youtube.com/watch?v=g9YQyYi4IQQ"
+      },
+      {
+        "id": 376,
+        "title": "Multiply Strings",
+        "link": "https://leetcode.com/problems/multiply-strings/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1vZswirL8Y8"
+      },
+      {
+        "id": 377,
+        "title": "Detect Squares",
+        "link": "https://leetcode.com/problems/detect-squares/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bahebearrDc"
+      },
+      {
+        "id": 378,
+        "title": "Robot Bounded In Circle",
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nKv2LnC_g6E"
+      },
+      {
+        "id": 379,
+        "title": "Zigzag Conversion",
+        "link": "https://leetcode.com/problems/zigzag-conversion/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Q2Tw6gcVEwc"
+      },
+      {
+        "id": 380,
+        "title": "Find Missing Observations",
+        "link": "https://leetcode.com/problems/find-missing-observations/",
+        "youtubeLink": "https://www.youtube.com/watch?v=86yKkaNi3sU"
+      },
+      {
+        "id": 381,
+        "title": "Sum of Two Integers",
+        "link": "https://leetcode.com/problems/sum-of-two-integers/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gVUrDV4tZfY"
+      },
+      {
+        "id": 382,
         "title": "Reverse Integer",
         "link": "https://leetcode.com/problems/reverse-integer/",
-        "youtubeLink": "https://youtube.com/"
+        "youtubeLink": "https://www.youtube.com/watch?v=HAgLH58IgJQ"
+      },
+      {
+        "id": 383,
+        "title": "Memoize",
+        "link": "https://leetcode.com/problems/memoize/",
+        "youtubeLink": "https://www.youtube.com/watch?v=oFXyzJt9VeU"
+      },
+      {
+        "id": 384,
+        "title": "Curry",
+        "link": "https://leetcode.com/problems/curry/",
+        "youtubeLink": "https://www.youtube.com/watch?v=pi4kqMWQXxA"
+      },
+      {
+        "id": 385,
+        "title": "Promise Pool",
+        "link": "https://leetcode.com/problems/promise-pool/",
+        "youtubeLink": "https://www.youtube.com/watch?v=DB8pAAg-9xw"
+      },
+      {
+        "id": 386,
+        "title": "Cache With Time Limit",
+        "link": "https://leetcode.com/problems/cache-with-time-limit/",
+        "youtubeLink": "https://www.youtube.com/watch?v=w772gtNK0Gw"
+      },
+      {
+        "id": 387,
+        "title": "Debounce",
+        "link": "https://leetcode.com/problems/debounce/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1sxSpnxNx5w"
+      },
+      {
+        "id": 388,
+        "title": "Throttle",
+        "link": "https://leetcode.com/problems/throttle/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zyGZV_fIQWk"
+      },
+      {
+        "id": 389,
+        "title": "JSON Deep Equal",
+        "link": "https://leetcode.com/problems/json-deep-equal/",
+        "youtubeLink": "https://www.youtube.com/watch?v=4JVZ-mVqJPg"
+      },
+      {
+        "id": 390,
+        "title": "Convert Object to JSON String",
+        "link": "https://leetcode.com/problems/convert-object-to-json-string/",
+        "youtubeLink": "https://www.youtube.com/watch?v=f94fUbHU-FY"
+      },
+      {
+        "id": 391,
+        "title": "Array of Objects to Matrix",
+        "link": "https://leetcode.com/problems/array-of-objects-to-matrix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LJwgAMHGcI0"
+      },
+      {
+        "id": 392,
+        "title": "Difference Between Two Objects",
+        "link": "https://leetcode.com/problems/differences-between-two-objects/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gH7oZs1WZfg"
+      },
+      {
+        "id": 393,
+        "title": "Flatten Deeply Nested Array",
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=_DetLPKtFNk"
+      },
+      {
+        "id": 394,
+        "title": "Group By",
+        "link": "https://leetcode.com/problems/group-by/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zs9axOyYHRE"
+      },
+      {
+        "id": 395,
+        "title": "Check if Object Instance of Class",
+        "link": "https://leetcode.com/problems/check-if-object-instance-of-class/",
+        "youtubeLink": "https://www.youtube.com/watch?v=meIo-Q07Ba8"
+      },
+      {
+        "id": 396,
+        "title": "Call Function with Custom Context",
+        "link": "https://leetcode.com/problems/call-function-with-custom-context/",
+        "youtubeLink": "https://www.youtube.com/watch?v=du_GH-Ooa8E"
+      },
+      {
+        "id": 397,
+        "title": "Event Emitter",
+        "link": "https://leetcode.com/problems/event-emitter/",
+        "youtubeLink": "https://www.youtube.com/watch?v=M69bjWFarU0"
+      },
+      {
+        "id": 398,
+        "title": "Nested Array Generator",
+        "link": "https://leetcode.com/problems/nested-array-generator/",
+        "youtubeLink": "https://www.youtube.com/watch?v=yo-J1jQaZYU"
       }
     ],
     "hard": [
       {
-        "id": 69,
+        "id": 399,
+        "title": "First Missing Positive",
+        "link": "https://leetcode.com/problems/first-missing-positive/",
+        "youtubeLink": "https://www.youtube.com/watch?v=8g78yfzMlao"
+      },
+      {
+        "id": 400,
+        "title": "Text Justification",
+        "link": "https://leetcode.com/problems/text-justification/",
+        "youtubeLink": "https://www.youtube.com/watch?v=TzMl4Z7pVh8"
+      },
+      {
+        "id": 401,
+        "title": "Naming a Company",
+        "link": "https://leetcode.com/problems/naming-a-company/",
+        "youtubeLink": "https://www.youtube.com/watch?v=NrHpgTScOcY"
+      },
+      {
+        "id": 402,
+        "title": "Trapping Rain Water",
+        "link": "https://leetcode.com/problems/trapping-rain-water/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ZI2z5pq0TqA"
+      },
+      {
+        "id": 403,
         "title": "Minimum Window Substring",
         "link": "https://leetcode.com/problems/minimum-window-substring/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WJaij9ffOIY&pp=ygUYbWF4aW11bSB3aW5kb3cgc3Vic3RyaW5n"
+        "youtubeLink": "https://www.youtube.com/watch?v=jSto0O4AJbM"
       },
       {
-        "id": 70,
+        "id": 404,
+        "title": "Sliding Window Maximum",
+        "link": "https://leetcode.com/problems/sliding-window-maximum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=DfljaUwZsOk"
+      },
+      {
+        "id": 405,
+        "title": "Maximum Frequency Stack",
+        "link": "https://leetcode.com/problems/maximum-frequency-stack/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Z6idIicFDOE"
+      },
+      {
+        "id": 406,
+        "title": "Largest Rectangle In Histogram",
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "youtubeLink": "https://www.youtube.com/watch?v=zx5Sw9130L0"
+      },
+      {
+        "id": 407,
+        "title": "Split Array Largest Sum",
+        "link": "https://leetcode.com/problems/split-array-largest-sum/",
+        "youtubeLink": "https://www.youtube.com/watch?v=YUF3_eBdzsk"
+      },
+      {
+        "id": 408,
+        "title": "Median of Two Sorted Arrays",
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "youtubeLink": "https://www.youtube.com/watch?v=q6IEA26hvXc"
+      },
+      {
+        "id": 409,
+        "title": "LFU Cache",
+        "link": "https://leetcode.com/problems/lfu-cache/",
+        "youtubeLink": "https://www.youtube.com/watch?v=bLEIHn-DgoA"
+      },
+      {
+        "id": 410,
         "title": "Merge K Sorted Lists",
         "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-        "youtubeLink": "https://www.youtube.com/watch?v=1zktEppsdig&pp=ygUUbWVyZ2UgayBzb3J0ZWQgbGlzdHM%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=q5a5OiGbT6Q"
       },
       {
-        "id": 71,
+        "id": 411,
+        "title": "Reverse Nodes In K Group",
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1UOPsfP85V4"
+      },
+      {
+        "id": 412,
         "title": "Binary Tree Maximum Path Sum",
         "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-        "youtubeLink": "https://www.youtube.com/watch?v=WszrfSwMz58&pp=ygUcYmluYXJ5IHRyZWUgbWF4aW11bSBwYXRoIHN1bQ%3D%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=Hr5cWUld4vU"
       },
       {
-        "id": 72,
-        "title": "Serialize and Deserialize Binary Tree",
+        "id": 413,
+        "title": "Serialize And Deserialize Binary Tree",
         "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-        "youtubeLink": "https://www.youtube.com/watch?v=-YbXySKJsX8&pp=ygUoc2VyaWFsaXplIGRlc2VyaWFsaXplIGJpbmFyeSBzZWFyY2ggdHJlZQ%3D%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=u4JAi2JJhI8"
       },
       {
-        "id": 73,
-        "title": "Find Median From Data Stream",
-        "link": "https://leetcode.com/problems/find-median-from-data-stream/",
-        "youtubeLink": "https://www.youtube.com/watch?v=itmhHWaHupI&pp=ygUcZmluZCBtZWRpYW4gZnJvbSBkYXRhIHN0cmVhbQ%3D%3D"
-      },
-      {
-        "id": 74,
+        "id": 414,
         "title": "Word Search II",
         "link": "https://leetcode.com/problems/word-search-ii/",
-        "youtubeLink": "https://www.youtube.com/watch?v=asbcE9mZz_U&pp=ygUOd29yZCBzZWFyY2ggaWk%3D"
+        "youtubeLink": "https://www.youtube.com/watch?v=asbcE9mZz_U"
       },
       {
-        "id": 75,
+        "id": 415,
+        "title": "Minimize Deviation in Array",
+        "link": "https://leetcode.com/problems/minimize-deviation-in-array/",
+        "youtubeLink": "https://www.youtube.com/watch?v=boHNFptxo2A"
+      },
+      {
+        "id": 416,
+        "title": "Find Median From Data Stream",
+        "link": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "youtubeLink": "https://www.youtube.com/watch?v=itmhHWaHupI"
+      },
+      {
+        "id": 417,
+        "title": "Maximum Performance of a Team",
+        "link": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Y7UTvogADH0"
+      },
+      {
+        "id": 418,
+        "title": "IPO",
+        "link": "https://leetcode.com/problems/ipo/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1IUzNJ6TPEM"
+      },
+      {
+        "id": 419,
+        "title": "N Queens",
+        "link": "https://leetcode.com/problems/n-queens/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Ph95IHmRp5M"
+      },
+      {
+        "id": 420,
+        "title": "N Queens II",
+        "link": "https://leetcode.com/problems/n-queens-ii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=nalYyLZgvCY"
+      },
+      {
+        "id": 421,
+        "title": "Largest Color Value in a Directed Graph",
+        "link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph/",
+        "youtubeLink": "https://www.youtube.com/watch?v=xLoDjKczUSk"
+      },
+      {
+        "id": 422,
+        "title": "Minimum Number of Days to Eat N Oranges",
+        "link": "https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/",
+        "youtubeLink": "https://www.youtube.com/watch?v=LziQ6Qx9sks"
+      },
+      {
+        "id": 423,
+        "title": "Word Ladder",
+        "link": "https://leetcode.com/problems/word-ladder/",
+        "youtubeLink": "https://www.youtube.com/watch?v=h9iTnkgv05E"
+      },
+      {
+        "id": 424,
+        "title": "Reconstruct Itinerary",
+        "link": "https://leetcode.com/problems/reconstruct-itinerary/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ZyB_gQ8vqGA"
+      },
+      {
+        "id": 425,
+        "title": "Swim In Rising Water",
+        "link": "https://leetcode.com/problems/swim-in-rising-water/",
+        "youtubeLink": "https://www.youtube.com/watch?v=amvrKlMLuGY"
+      },
+      {
+        "id": 426,
         "title": "Alien Dictionary",
-        "link": "https://leetcode.com/problems/alien-dictionary/",
-        "youtubeLink": "https://www.youtube.com/watch?v=U3N_je7tWAs&pp=ygUZYWxpZW4gZGljdGlvbmFyeSBsZWV0Y29kZQ%3D%3D"
+        "link": "https://www.lintcode.com/title/892/",
+        "youtubeLink": "https://www.youtube.com/watch?v=6kTZYvNNyps"
+      },
+      {
+        "id": 427,
+        "title": "Number of Good Paths",
+        "link": "https://leetcode.com/problems/number-of-good-paths/",
+        "youtubeLink": "https://www.youtube.com/watch?v=rv2GBYQm7xM"
+      },
+      {
+        "id": 428,
+        "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+        "link": "https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/",
+        "youtubeLink": "https://www.youtube.com/watch?v=booGwg5wYm4"
+      },
+      {
+        "id": 429,
+        "title": "Find Critical and Pseudo Critical Edges in Minimum Spanning Tree",
+        "link": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+        "youtubeLink": "https://www.youtube.com/watch?v=83JnUxrLKJU"
+      },
+      {
+        "id": 430,
+        "title": "Stickers to Spell Word",
+        "link": "https://leetcode.com/problems/stickers-to-spell-word/",
+        "youtubeLink": "https://www.youtube.com/watch?v=hsomLb6mUdI"
+      },
+      {
+        "id": 431,
+        "title": "Stone Game III",
+        "link": "https://leetcode.com/problems/stone-game-iii/",
+        "youtubeLink": "https://www.youtube.com/watch?v=HsLG5QW9CFQ"
+      },
+      {
+        "id": 432,
+        "title": "Concatenated Words",
+        "link": "https://leetcode.com/problems/concatenated-words/",
+        "youtubeLink": "https://www.youtube.com/watch?v=iHp7fjw1R28"
+      },
+      {
+        "id": 433,
+        "title": "Maximize Score after N Operations",
+        "link": "https://leetcode.com/problems/maximize-score-after-n-operations/",
+        "youtubeLink": "https://www.youtube.com/watch?v=RRQVDqp5RSE"
+      },
+      {
+        "id": 434,
+        "title": "Find the Longest Valid Obstacle Course at Each Position",
+        "link": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Xq9VT7p0lic"
+      },
+      {
+        "id": 435,
+        "title": "Count all Valid Pickup and Delivery Options",
+        "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/",
+        "youtubeLink": "https://www.youtube.com/watch?v=OpgslsirW8s"
+      },
+      {
+        "id": 436,
+        "title": "Longest Increasing Path In a Matrix",
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+        "youtubeLink": "https://www.youtube.com/watch?v=wCc_nd-GiEc"
+      },
+      {
+        "id": 437,
+        "title": "Distinct Subsequences",
+        "link": "https://leetcode.com/problems/distinct-subsequences/",
+        "youtubeLink": "https://www.youtube.com/watch?v=-RDzMJ33nx8"
+      },
+      {
+        "id": 438,
+        "title": "Count Vowels Permutation",
+        "link": "https://leetcode.com/problems/count-vowels-permutation/",
+        "youtubeLink": "https://www.youtube.com/watch?v=VUVpTZVa7Ls"
+      },
+      {
+        "id": 439,
+        "title": "Burst Balloons",
+        "link": "https://leetcode.com/problems/burst-balloons/",
+        "youtubeLink": "https://www.youtube.com/watch?v=VFskby7lUbw"
+      },
+      {
+        "id": 440,
+        "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+        "link": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/",
+        "youtubeLink": "https://www.youtube.com/watch?v=O761YBjGxGA"
+      },
+      {
+        "id": 441,
+        "title": "Regular Expression Matching",
+        "link": "https://leetcode.com/problems/regular-expression-matching/",
+        "youtubeLink": "https://www.youtube.com/watch?v=HAA8mgxlov8"
+      },
+      {
+        "id": 442,
+        "title": "Maximum Value of K Coins from Piles",
+        "link": "https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/",
+        "youtubeLink": "https://www.youtube.com/watch?v=ZRdEd_eun8g"
+      },
+      {
+        "id": 443,
+        "title": "Number of Music Playlists",
+        "link": "https://leetcode.com/problems/number-of-music-playlists/",
+        "youtubeLink": "https://www.youtube.com/watch?v=gk4qzZSmyrs"
+      },
+      {
+        "id": 444,
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/",
+        "youtubeLink": "https://www.youtube.com/watch?v=_GF-0T-YjW8"
+      },
+      {
+        "id": 445,
+        "title": "Profitable Schemes",
+        "link": "https://leetcode.com/problems/profitable-schemes/",
+        "youtubeLink": "https://www.youtube.com/watch?v=CcLKQLKvOl8"
+      },
+      {
+        "id": 446,
+        "title": "Minimum Cost to Cut a Stick",
+        "link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "youtubeLink": "https://www.youtube.com/watch?v=EVxTO5I0d7w"
+      },
+      {
+        "id": 447,
+        "title": "Candy",
+        "link": "https://leetcode.com/problems/candy/",
+        "youtubeLink": "https://www.youtube.com/watch?v=1IzCRCcK17A"
+      },
+      {
+        "id": 448,
+        "title": "Minimum Interval to Include Each Query",
+        "link": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+        "youtubeLink": "https://www.youtube.com/watch?v=5hQ5WWW5awQ"
+      },
+      {
+        "id": 449,
+        "title": "Data Stream as Disjoint Intervals",
+        "link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+        "youtubeLink": "https://www.youtube.com/watch?v=FavoZjPIWpo"
+      },
+      {
+        "id": 450,
+        "title": "Maximum Points on a Line",
+        "link": "https://leetcode.com/problems/max-points-on-a-line/",
+        "youtubeLink": "https://www.youtube.com/watch?v=Bb9lOXUOnFw"
       }
     ]
   }
